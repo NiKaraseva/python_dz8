@@ -1,0 +1,947 @@
+name,parent,type,size
+task_5.py,['venv'],file,631
+task_1.py,['venv'],file,940
+task_4_users.json,['venv'],file,362
+result.txt,['venv'],file,64
+task_4.py,['venv'],file,1292
+directory_walker.py,['venv'],file,2443
+users.csv,['venv'],file,47
+output.json,['venv'],file,170
+users.json,['venv'],file,136
+users.pickle,['venv'],file,90
+task_3.py,['venv'],file,860
+task_2.py,['venv'],file,1742
+venv,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8,dir,12466272
+pyvenv.cfg,"['bin', 'lib']",file,314
+.gitignore,"['bin', 'lib']",file,40
+bin,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv,dir,472990
+lib,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv,dir,11992928
+wheel3.11,[],file,264
+wheel3,[],file,264
+activate.ps1,[],file,1754
+python3,[],file,152624
+python,[],file,152624
+pip3,[],file,277
+deactivate.nu,[],file,682
+pip-3.11,[],file,277
+activate.fish,[],file,3057
+wheel,[],file,264
+python3.11,[],file,152624
+wheel-3.11,[],file,264
+activate_this.py,[],file,1176
+pip,[],file,277
+pip3.11,[],file,277
+activate,[],file,2180
+activate.nu,[],file,2633
+activate.csh,[],file,1472
+python3.11,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib,dir,11992928
+site-packages,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11,dir,11992928
+pip-22.3.1.virtualenv,"['setuptools-65.5.1.dist-info', 'wheel', '__pycache__', 'pip', 'pip-22.3.1.dist-info', 'wheel-0.38.4.dist-info', 'setuptools', 'pkg_resources', '_distutils_hack']",file,0
+_virtualenv.py,"['setuptools-65.5.1.dist-info', 'wheel', '__pycache__', 'pip', 'pip-22.3.1.dist-info', 'wheel-0.38.4.dist-info', 'setuptools', 'pkg_resources', '_distutils_hack']",file,5640
+distutils-precedence.pth,"['setuptools-65.5.1.dist-info', 'wheel', '__pycache__', 'pip', 'pip-22.3.1.dist-info', 'wheel-0.38.4.dist-info', 'setuptools', 'pkg_resources', '_distutils_hack']",file,151
+_virtualenv.pth,"['setuptools-65.5.1.dist-info', 'wheel', '__pycache__', 'pip', 'pip-22.3.1.dist-info', 'wheel-0.38.4.dist-info', 'setuptools', 'pkg_resources', '_distutils_hack']",file,18
+wheel-0.38.4.virtualenv,"['setuptools-65.5.1.dist-info', 'wheel', '__pycache__', 'pip', 'pip-22.3.1.dist-info', 'wheel-0.38.4.dist-info', 'setuptools', 'pkg_resources', '_distutils_hack']",file,0
+setuptools-65.5.1.virtualenv,"['setuptools-65.5.1.dist-info', 'wheel', '__pycache__', 'pip', 'pip-22.3.1.dist-info', 'wheel-0.38.4.dist-info', 'setuptools', 'pkg_resources', '_distutils_hack']",file,0
+setuptools-65.5.1.dist-info,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages,dir,45894
+wheel,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages,dir,95910
+__pycache__,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages,dir,6949
+pip,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages,dir,6847400
+pip-22.3.1.dist-info,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages,dir,76649
+wheel-0.38.4.dist-info,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages,dir,6241
+setuptools,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages,dir,3027307
+pkg_resources,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages,dir,1863405
+_distutils_hack,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages,dir,17364
+RECORD,[],file,35656
+LICENSE,[],file,1050
+WHEEL,[],file,92
+entry_points.txt,[],file,2740
+top_level.txt,[],file,41
+INSTALLER,[],file,4
+METADATA,[],file,6311
+metadata.py,"['cli', 'vendored']",file,3727
+macosx_libfile.py,"['cli', 'vendored']",file,16145
+util.py,"['cli', 'vendored']",file,621
+_setuptools_logging.py,"['cli', 'vendored']",file,746
+__init__.py,"['cli', 'vendored']",file,59
+bdist_wheel.py,"['cli', 'vendored']",file,19293
+wheelfile.py,"['cli', 'vendored']",file,7536
+__main__.py,"['cli', 'vendored']",file,455
+cli,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/wheel,dir,15853
+vendored,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/wheel,dir,31475
+pack.py,[],file,3383
+convert.py,[],file,9427
+__init__.py,[],file,2384
+unpack.py,[],file,659
+__init__.py,['packaging'],file,0
+packaging,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/wheel/vendored,dir,31475
+tags.py,[],file,15612
+_musllinux.py,[],file,4374
+__init__.py,[],file,0
+_manylinux.py,[],file,11489
+_virtualenv.cpython-311.pyc,[],file,6949
+__init__.py,"['_internal', '_vendor']",file,357
+py.typed,"['_internal', '_vendor']",file,286
+__pip-runner__.py,"['_internal', '_vendor']",file,1444
+__main__.py,"['_internal', '_vendor']",file,1198
+_internal,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip,dir,1035611
+_vendor,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip,dir,5808504
+configuration.py,"['network', 'utils', 'models', 'cli', 'operations', 'req', 'resolution', 'vcs', 'locations', 'index', 'commands', 'metadata', 'distributions']",file,13529
+pyproject.py,"['network', 'utils', 'models', 'cli', 'operations', 'req', 'resolution', 'vcs', 'locations', 'index', 'commands', 'metadata', 'distributions']",file,7074
+cache.py,"['network', 'utils', 'models', 'cli', 'operations', 'req', 'resolution', 'vcs', 'locations', 'index', 'commands', 'metadata', 'distributions']",file,10734
+__init__.py,"['network', 'utils', 'models', 'cli', 'operations', 'req', 'resolution', 'vcs', 'locations', 'index', 'commands', 'metadata', 'distributions']",file,573
+exceptions.py,"['network', 'utils', 'models', 'cli', 'operations', 'req', 'resolution', 'vcs', 'locations', 'index', 'commands', 'metadata', 'distributions']",file,20942
+main.py,"['network', 'utils', 'models', 'cli', 'operations', 'req', 'resolution', 'vcs', 'locations', 'index', 'commands', 'metadata', 'distributions']",file,340
+wheel_builder.py,"['network', 'utils', 'models', 'cli', 'operations', 'req', 'resolution', 'vcs', 'locations', 'index', 'commands', 'metadata', 'distributions']",file,13079
+self_outdated_check.py,"['network', 'utils', 'models', 'cli', 'operations', 'req', 'resolution', 'vcs', 'locations', 'index', 'commands', 'metadata', 'distributions']",file,8020
+build_env.py,"['network', 'utils', 'models', 'cli', 'operations', 'req', 'resolution', 'vcs', 'locations', 'index', 'commands', 'metadata', 'distributions']",file,10234
+network,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal,dir,52426
+utils,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal,dir,118977
+models,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal,dir,45927
+cli,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal,dir,87806
+operations,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal,dir,87624
+req,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal,dir,99567
+resolution,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal,dir,111906
+vcs,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal,dir,62007
+locations,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal,dir,34294
+index,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal,dir,60686
+commands,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal,dir,119848
+metadata,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal,dir,59552
+distributions,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal,dir,10466
+auth.py,[],file,12190
+xmlrpc.py,[],file,1791
+download.py,[],file,6096
+session.py,[],file,18443
+cache.py,[],file,2145
+__init__.py,[],file,50
+utils.py,[],file,4073
+lazy_wheel.py,[],file,7638
+logging.py,[],file,11632
+misc.py,[],file,21617
+egg_link.py,[],file,2203
+compat.py,[],file,1884
+encoding.py,[],file,1169
+models.py,[],file,1193
+deprecation.py,[],file,5764
+subprocess.py,[],file,9197
+filesystem.py,[],file,5122
+direct_url_helpers.py,[],file,3206
+__init__.py,[],file,0
+temp_dir.py,[],file,7702
+appdirs.py,[],file,1665
+inject_securetransport.py,[],file,795
+setuptools_build.py,[],file,5662
+packaging.py,[],file,2108
+distutils_args.py,[],file,1115
+entrypoints.py,[],file,3064
+filetypes.py,[],file,716
+compatibility_tags.py,[],file,5377
+datetime.py,[],file,242
+urls.py,[],file,1759
+hashes.py,[],file,4831
+virtualenv.py,[],file,3459
+_log.py,[],file,1015
+glibc.py,[],file,3110
+wheel.py,[],file,4549
+unpacking.py,[],file,8821
+link.py,[],file,18083
+selection_prefs.py,[],file,1907
+direct_url.py,[],file,5877
+index.py,[],file,1030
+target_python.py,[],file,3858
+__init__.py,[],file,63
+search_scope.py,[],file,4644
+candidate.py,[],file,990
+format_control.py,[],file,2520
+installation_report.py,[],file,2617
+scheme.py,[],file,738
+wheel.py,[],file,3600
+cmdoptions.py,[],file,29381
+__init__.py,[],file,132
+status_codes.py,[],file,116
+parser.py,[],file,10817
+command_context.py,[],file,774
+spinners.py,[],file,5118
+autocompletion.py,[],file,6676
+base_command.py,[],file,7842
+main_parser.py,[],file,4338
+progress_bars.py,[],file,1968
+main.py,[],file,2472
+req_command.py,[],file,18172
+check.py,"['install', 'build']",file,5109
+__init__.py,"['install', 'build']",file,0
+freeze.py,"['install', 'build']",file,9784
+prepare.py,"['install', 'build']",file,25091
+install,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal/operations,dir,32917
+build,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal/operations,dir,14723
+legacy.py,[],file,4105
+editable_legacy.py,[],file,1354
+__init__.py,[],file,51
+wheel.py,[],file,27407
+wheel_legacy.py,[],file,3064
+metadata.py,[],file,1404
+metadata_editable.py,[],file,1456
+wheel_editable.py,[],file,1405
+__init__.py,[],file,0
+metadata_legacy.py,[],file,2198
+wheel.py,[],file,1063
+build_tracker.py,[],file,4133
+req_install.py,[],file,35600
+req_set.py,[],file,2858
+req_uninstall.py,[],file,24045
+__init__.py,[],file,2807
+req_file.py,[],file,17646
+constructors.py,[],file,16611
+__init__.py,"['legacy', 'resolvelib']",file,0
+base.py,"['legacy', 'resolvelib']",file,583
+legacy,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal/resolution,dir,24129
+resolvelib,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal/resolution,dir,87194
+__init__.py,[],file,0
+resolver.py,[],file,24129
+provider.py,[],file,9914
+found_candidates.py,[],file,5705
+reporter.py,[],file,2526
+__init__.py,[],file,0
+factory.py,[],file,27878
+requirements.py,[],file,5455
+resolver.py,[],file,11533
+candidates.py,[],file,18963
+base.py,[],file,5220
+git.py,[],file,18116
+__init__.py,[],file,596
+mercurial.py,[],file,5238
+bazaar.py,[],file,3518
+versioncontrol.py,[],file,22811
+subversion.py,[],file,11728
+__init__.py,[],file,17552
+_sysconfig.py,[],file,7867
+_distutils.py,[],file,6302
+base.py,[],file,2573
+collector.py,[],file,16503
+__init__.py,[],file,30
+sources.py,[],file,6557
+package_finder.py,[],file,37596
+configuration.py,[],file,9815
+show.py,[],file,6129
+list.py,[],file,12343
+check.py,[],file,1685
+index.py,[],file,4762
+completion.py,[],file,4129
+download.py,[],file,5289
+cache.py,[],file,7582
+__init__.py,[],file,3882
+hash.py,[],file,1703
+inspect.py,[],file,3374
+debug.py,[],file,6573
+uninstall.py,[],file,3680
+freeze.py,[],file,2951
+search.py,[],file,5697
+install.py,[],file,31726
+help.py,[],file,1132
+wheel.py,[],file,7396
+_json.py,['importlib'],file,2595
+__init__.py,['importlib'],file,4280
+pkg_resources.py,['importlib'],file,9773
+base.py,['importlib'],file,25277
+importlib,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal/metadata,dir,17627
+_dists.py,[],file,8181
+__init__.py,[],file,107
+_compat.py,[],file,1882
+_envs.py,[],file,7457
+__init__.py,[],file,858
+sdist.py,[],file,6494
+installed.py,[],file,729
+base.py,[],file,1221
+wheel.py,[],file,1164
+vendor.txt,"['packaging', 'msgpack', 'chardet', 'webencodings', 'pygments', 'pep517', 'distlib', 'pyparsing', 'distro', 'colorama', 'cachecontrol', 'idna', 'tenacity', 'requests', 'tomli', 'certifi', 'rich', 'urllib3', 'pkg_resources', 'resolvelib', 'platformdirs']",file,469
+__init__.py,"['packaging', 'msgpack', 'chardet', 'webencodings', 'pygments', 'pep517', 'distlib', 'pyparsing', 'distro', 'colorama', 'cachecontrol', 'idna', 'tenacity', 'requests', 'tomli', 'certifi', 'rich', 'urllib3', 'pkg_resources', 'resolvelib', 'platformdirs']",file,4966
+six.py,"['packaging', 'msgpack', 'chardet', 'webencodings', 'pygments', 'pep517', 'distlib', 'pyparsing', 'distro', 'colorama', 'cachecontrol', 'idna', 'tenacity', 'requests', 'tomli', 'certifi', 'rich', 'urllib3', 'pkg_resources', 'resolvelib', 'platformdirs']",file,34549
+typing_extensions.py,"['packaging', 'msgpack', 'chardet', 'webencodings', 'pygments', 'pep517', 'distlib', 'pyparsing', 'distro', 'colorama', 'cachecontrol', 'idna', 'tenacity', 'requests', 'tomli', 'certifi', 'rich', 'urllib3', 'pkg_resources', 'resolvelib', 'platformdirs']",file,80114
+packaging,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,96292
+msgpack,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,42850
+chardet,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,1092504
+webencodings,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,31733
+pygments,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,479266
+pep517,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,47390
+distlib,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,1139219
+pyparsing,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,370049
+distro,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,49886
+colorama,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,27348
+cachecontrol,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,48131
+idna,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,270310
+tenacity,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,50281
+requests,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,180427
+tomli,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,26226
+certifi,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,290998
+rich,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,878477
+urllib3,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,388569
+pkg_resources,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,108849
+resolvelib,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,30534
+platformdirs,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor,dir,39067
+tags.py,[],file,15699
+_musllinux.py,[],file,4378
+version.py,[],file,14665
+__init__.py,[],file,497
+utils.py,[],file,4200
+requirements.py,[],file,4676
+_structures.py,[],file,1431
+markers.py,[],file,8487
+__about__.py,[],file,661
+_manylinux.py,[],file,11488
+specifiers.py,[],file,30110
+__init__.py,[],file,1132
+exceptions.py,[],file,1081
+fallback.py,[],file,34557
+ext.py,[],file,6080
+enums.py,"['cli', 'metadata']",file,1619
+langhungarianmodel.py,"['cli', 'metadata']",file,101363
+mbcssm.py,"['cli', 'metadata']",file,30068
+johabfreq.py,"['cli', 'metadata']",file,42498
+langthaimodel.py,"['cli', 'metadata']",file,102774
+version.py,"['cli', 'metadata']",file,242
+utf1632prober.py,"['cli', 'metadata']",file,8289
+langbulgarianmodel.py,"['cli', 'metadata']",file,104562
+euckrprober.py,"['cli', 'metadata']",file,1731
+sjisprober.py,"['cli', 'metadata']",file,3749
+cp949prober.py,"['cli', 'metadata']",file,1838
+__init__.py,"['cli', 'metadata']",file,3705
+euctwfreq.py,"['cli', 'metadata']",file,36913
+langhebrewmodel.py,"['cli', 'metadata']",file,98196
+chardistribution.py,"['cli', 'metadata']",file,9608
+latin1prober.py,"['cli', 'metadata']",file,5260
+charsetprober.py,"['cli', 'metadata']",file,4801
+gb2312prober.py,"['cli', 'metadata']",file,1737
+mbcharsetprober.py,"['cli', 'metadata']",file,3367
+euctwprober.py,"['cli', 'metadata']",file,1731
+langrussianmodel.py,"['cli', 'metadata']",file,128035
+codingstatemachine.py,"['cli', 'metadata']",file,3559
+escprober.py,"['cli', 'metadata']",file,3864
+universaldetector.py,"['cli', 'metadata']",file,13288
+utf8prober.py,"['cli', 'metadata']",file,2709
+gb2312freq.py,"['cli', 'metadata']",file,20735
+mbcsgroupprober.py,"['cli', 'metadata']",file,2056
+langgreekmodel.py,"['cli', 'metadata']",file,98484
+eucjpprober.py,"['cli', 'metadata']",file,3676
+jisfreq.py,"['cli', 'metadata']",file,25796
+escsm.py,"['cli', 'metadata']",file,12021
+langturkishmodel.py,"['cli', 'metadata']",file,95372
+sbcharsetprober.py,"['cli', 'metadata']",file,6199
+big5freq.py,"['cli', 'metadata']",file,31274
+euckrfreq.py,"['cli', 'metadata']",file,13566
+big5prober.py,"['cli', 'metadata']",file,1741
+johabprober.py,"['cli', 'metadata']",file,1730
+hebrewprober.py,"['cli', 'metadata']",file,13919
+charsetgroupprober.py,"['cli', 'metadata']",file,3817
+sbcsgroupprober.py,"['cli', 'metadata']",file,4129
+jpcntx.py,"['cli', 'metadata']",file,26797
+cli,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/chardet,dir,2406
+metadata,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/chardet,dir,13280
+__init__.py,[],file,0
+chardetect.py,[],file,2406
+__init__.py,[],file,0
+languages.py,[],file,13280
+labels.py,[],file,8979
+mklabels.py,[],file,1305
+x_user_defined.py,[],file,4307
+__init__.py,[],file,10579
+tests.py,[],file,6563
+modeline.py,"['filters', 'lexers', 'formatters', 'styles']",file,986
+console.py,"['filters', 'lexers', 'formatters', 'styles']",file,1697
+scanner.py,"['filters', 'lexers', 'formatters', 'styles']",file,3092
+formatter.py,"['filters', 'lexers', 'formatters', 'styles']",file,2917
+token.py,"['filters', 'lexers', 'formatters', 'styles']",file,6184
+style.py,"['filters', 'lexers', 'formatters', 'styles']",file,6257
+util.py,"['filters', 'lexers', 'formatters', 'styles']",file,9110
+sphinxext.py,"['filters', 'lexers', 'formatters', 'styles']",file,4630
+cmdline.py,"['filters', 'lexers', 'formatters', 'styles']",file,23685
+__init__.py,"['filters', 'lexers', 'formatters', 'styles']",file,2999
+unistring.py,"['filters', 'lexers', 'formatters', 'styles']",file,63187
+lexer.py,"['filters', 'lexers', 'formatters', 'styles']",file,32005
+regexopt.py,"['filters', 'lexers', 'formatters', 'styles']",file,3072
+plugin.py,"['filters', 'lexers', 'formatters', 'styles']",file,2591
+filter.py,"['filters', 'lexers', 'formatters', 'styles']",file,1938
+__main__.py,"['filters', 'lexers', 'formatters', 'styles']",file,353
+filters,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/pygments,dir,40386
+lexers,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/pygments,dir,134782
+formatters,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/pygments,dir,135976
+styles,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/pygments,dir,3419
+__init__.py,[],file,40386
+__init__.py,[],file,11174
+python.py,[],file,53376
+_mapping.py,[],file,70232
+terminal.py,[],file,4674
+html.py,[],file,35441
+irc.py,[],file,5871
+__init__.py,[],file,4810
+other.py,[],file,5073
+img.py,[],file,21938
+terminal256.py,[],file,11753
+rtf.py,[],file,5014
+svg.py,[],file,7335
+bbcode.py,[],file,3314
+pangomarkup.py,[],file,2212
+_mapping.py,[],file,4104
+groff.py,[],file,5086
+latex.py,[],file,19351
+__init__.py,[],file,3419
+build.py,['in_process'],file,3443
+dirtools.py,['in_process'],file,607
+check.py,['in_process'],file,6083
+__init__.py,['in_process'],file,130
+envbuild.py,['in_process'],file,6081
+wrappers.py,['in_process'],file,12721
+colorlog.py,['in_process'],file,3994
+_compat.py,['in_process'],file,138
+meta.py,['in_process'],file,2520
+in_process,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/pep517,dir,11673
+_in_process.py,[],file,10801
+__init__.py,[],file,872
+w64-arm.exe,[],file,168448
+w32.exe,[],file,91648
+locators.py,[],file,51991
+metadata.py,[],file,39801
+version.py,[],file,23513
+compat.py,[],file,41259
+index.py,[],file,20834
+manifest.py,[],file,14811
+util.py,[],file,66262
+database.py,[],file,51697
+t32.exe,[],file,97792
+__init__.py,[],file,581
+w64.exe,[],file,101888
+markers.py,[],file,5058
+resources.py,[],file,10820
+t64-arm.exe,[],file,182784
+scripts.py,[],file,18102
+t64.exe,[],file,108032
+wheel.py,[],file,43898
+results.py,['diagram'],file,25341
+unicode.py,['diagram'],file,10787
+util.py,['diagram'],file,6805
+actions.py,['diagram'],file,6426
+__init__.py,['diagram'],file,9171
+core.py,['diagram'],file,213344
+common.py,['diagram'],file,12936
+exceptions.py,['diagram'],file,9023
+testing.py,['diagram'],file,13402
+helpers.py,['diagram'],file,39129
+diagram,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/pyparsing,dir,23685
+__init__.py,[],file,23685
+__init__.py,[],file,981
+distro.py,[],file,48841
+__main__.py,[],file,64
+__init__.py,[],file,239
+win32.py,[],file,5404
+ansitowin32.py,[],file,10830
+ansi.py,[],file,2522
+winterm.py,[],file,6438
+initialise.py,[],file,1915
+serialize.py,['caches'],file,7105
+wrapper.py,['caches'],file,774
+controller.py,['caches'],file,16416
+compat.py,['caches'],file,778
+filewrapper.py,['caches'],file,3946
+heuristics.py,['caches'],file,4154
+adapter.py,['caches'],file,5033
+cache.py,['caches'],file,1535
+__init__.py,['caches'],file,465
+_cmd.py,['caches'],file,1379
+caches,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/cachecontrol,dir,6546
+file_cache.py,[],file,5271
+__init__.py,[],file,242
+redis_cache.py,[],file,1033
+intranges.py,[],file,1881
+package_data.py,[],file,21
+compat.py,[],file,321
+idnadata.py,[],file,44375
+__init__.py,[],file,849
+core.py,[],file,12950
+codec.py,[],file,3374
+uts46data.py,[],file,206539
+before.py,[],file,1376
+before_sleep.py,[],file,1908
+_asyncio.py,[],file,3314
+stop.py,[],file,2790
+wait.py,[],file,8011
+__init__.py,[],file,18364
+nap.py,[],file,1383
+after.py,[],file,1496
+retry.py,[],file,7550
+tornadoweb.py,[],file,2145
+_utils.py,[],file,1944
+cookies.py,[],file,18560
+auth.py,[],file,10187
+sessions.py,[],file,30180
+hooks.py,[],file,733
+compat.py,[],file,1286
+models.py,[],file,35287
+certs.py,[],file,575
+__init__.py,[],file,5178
+status_codes.py,[],file,4235
+packages.py,[],file,695
+__version__.py,[],file,440
+api.py,[],file,6377
+_internal_utils.py,[],file,1397
+utils.py,[],file,33240
+exceptions.py,[],file,3823
+structures.py,[],file,2912
+help.py,[],file,3879
+adapters.py,[],file,21443
+_types.py,[],file,254
+__init__.py,[],file,396
+_parser.py,[],file,22633
+_re.py,[],file,2943
+__init__.py,[],file,94
+core.py,[],file,4279
+cacert.pem,[],file,286370
+__main__.py,[],file,255
+themes.py,[],file,102
+screen.py,[],file,1591
+logging.py,[],file,11471
+measure.py,[],file,5305
+tree.py,[],file,9169
+console.py,[],file,95885
+live_render.py,[],file,3667
+_emoji_codes.py,[],file,140235
+box.py,[],file,9864
+color.py,[],file,17957
+_timer.py,[],file,417
+align.py,[],file,10368
+theme.py,[],file,3627
+style.py,[],file,26240
+default_styles.py,[],file,7954
+_wrap.py,[],file,1840
+_log_render.py,[],file,3225
+emoji.py,[],file,2501
+layout.py,[],file,14074
+containers.py,[],file,5497
+_emoji_replace.py,[],file,1064
+traceback.py,[],file,26060
+region.py,[],file,166
+protocol.py,[],file,1391
+_loop.py,[],file,1236
+control.py,[],file,6630
+filesize.py,[],file,2507
+_palettes.py,[],file,7063
+__init__.py,[],file,5944
+_pick.py,[],file,423
+file_proxy.py,[],file,1616
+palette.py,[],file,3396
+markup.py,[],file,8198
+_ratio.py,[],file,5472
+repr.py,[],file,4449
+constrain.py,[],file,1288
+pretty.py,[],file,36576
+diagnose.py,[],file,972
+columns.py,[],file,7131
+rule.py,[],file,4773
+_inspect.py,[],file,9695
+pager.py,[],file,828
+text.py,[],file,44666
+highlighter.py,[],file,9585
+_spinners.py,[],file,19919
+terminal_theme.py,[],file,3370
+bar.py,[],file,3264
+live.py,[],file,14172
+syntax.py,[],file,34697
+table.py,[],file,39515
+_export_format.py,[],file,2114
+progress_bar.py,[],file,8161
+errors.py,[],file,642
+prompt.py,[],file,11303
+segment.py,[],file,24224
+ansi.py,[],file,6820
+progress.py,[],file,59746
+_stack.py,[],file,351
+_windows.py,[],file,1926
+_cell_widths.py,[],file,10096
+cells.py,[],file,4503
+_win32_console.py,[],file,22820
+panel.py,[],file,8744
+styled.py,[],file,1258
+spinner.py,[],file,4374
+_windows_renderer.py,[],file,2783
+json.py,[],file,5051
+padding.py,[],file,4970
+__main__.py,[],file,8808
+scope.py,[],file,2842
+_extension.py,[],file,265
+status.py,[],file,4425
+abc.py,[],file,890
+jupyter.py,[],file,3252
+color_triplet.py,[],file,1054
+filepost.py,"['util', 'contrib', 'packages']",file,2440
+fields.py,"['util', 'contrib', 'packages']",file,8579
+_version.py,"['util', 'contrib', 'packages']",file,64
+request.py,"['util', 'contrib', 'packages']",file,5985
+__init__.py,"['util', 'contrib', 'packages']",file,3333
+poolmanager.py,"['util', 'contrib', 'packages']",file,19786
+response.py,"['util', 'contrib', 'packages']",file,30109
+connection.py,"['util', 'contrib', 'packages']",file,20070
+_collections.py,"['util', 'contrib', 'packages']",file,10811
+exceptions.py,"['util', 'contrib', 'packages']",file,8217
+connectionpool.py,"['util', 'contrib', 'packages']",file,39093
+util,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/urllib3,dir,97190
+contrib,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/urllib3,dir,106810
+packages,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/urllib3,dir,36082
+queue.py,[],file,498
+ssltransport.py,[],file,6895
+proxy.py,[],file,1605
+wait.py,[],file,5403
+request.py,[],file,3997
+timeout.py,[],file,10003
+__init__.py,[],file,1155
+response.py,[],file,3510
+ssl_.py,[],file,17177
+retry.py,[],file,22001
+url.py,[],file,14287
+connection.py,[],file,4901
+ssl_match_hostname.py,[],file,5758
+securetransport.py,['_securetransport'],file,34448
+__init__.py,['_securetransport'],file,0
+socks.py,['_securetransport'],file,7097
+_appengine_environ.py,['_securetransport'],file,957
+pyopenssl.py,['_securetransport'],file,17182
+appengine.py,['_securetransport'],file,11034
+ntlmpool.py,['_securetransport'],file,4538
+_securetransport,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/contrib,dir,31554
+__init__.py,[],file,0
+low_level.py,[],file,13922
+bindings.py,[],file,17632
+__init__.py,['backports'],file,0
+six.py,['backports'],file,34665
+backports,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/packages,dir,1417
+__init__.py,[],file,0
+makefile.py,[],file,1417
+py31compat.py,[],file,562
+__init__.py,[],file,108287
+resolvers.py,['compat'],file,17592
+__init__.py,['compat'],file,537
+providers.py,['compat'],file,5872
+structs.py,['compat'],file,4794
+reporters.py,['compat'],file,1583
+compat,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/resolvelib,dir,156
+__init__.py,[],file,0
+collections_abc.py,[],file,156
+macos.py,[],file,2655
+unix.py,[],file,6910
+version.py,[],file,78
+__init__.py,[],file,12831
+api.py,[],file,4910
+android.py,[],file,4068
+windows.py,[],file,6439
+__main__.py,[],file,1176
+RECORD,[],file,71259
+WHEEL,[],file,92
+entry_points.txt,[],file,125
+top_level.txt,[],file,4
+LICENSE.txt,[],file,1093
+INSTALLER,[],file,4
+METADATA,[],file,4072
+RECORD,[],file,2815
+WHEEL,[],file,92
+entry_points.txt,[],file,107
+top_level.txt,[],file,6
+LICENSE.txt,[],file,1107
+INSTALLER,[],file,4
+METADATA,[],file,2110
+_path.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,749
+cli-arm64.exe,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,137216
+logging.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,1210
+windows_support.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,718
+_deprecation_warning.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,218
+package_index.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,40329
+archive_util.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,7346
+_imp.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,2392
+version.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,144
+discovery.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,20799
+cli-64.exe,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,74752
+_reqs.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,501
+gui-64.exe,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,75264
+depends.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,5499
+__init__.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,8429
+installer.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,3824
+glob.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,4873
+sandbox.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,14348
+py34compat.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,245
+script.tmpl,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,138
+launch.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,812
+extension.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,5591
+unicode_utils.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,941
+_itertools.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,675
+monkey.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,4857
+build_meta.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,19539
+cli.exe,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,65536
+errors.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,2464
+dep_util.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,949
+msvc.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,47724
+_importlib.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,1311
+_entry_points.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,1972
+cli-32.exe,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,65536
+gui-32.exe,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,65536
+gui.exe,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,65536
+dist.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,45578
+wheel.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,8376
+gui-arm64.exe,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,137728
+namespaces.py,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,3093
+script (dev).tmpl,"['_vendor', 'config', 'command', 'extern', '_distutils']",file,218
+_vendor,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools,dir,839953
+config,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools,dir,369045
+command,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools,dir,267898
+extern,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools,dir,2512
+_distutils,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools,dir,604933
+__init__.py,"['packaging', 'jaraco', 'pyparsing', 'importlib_metadata', 'more_itertools', 'importlib_resources', 'tomli']",file,0
+zipp.py,"['packaging', 'jaraco', 'pyparsing', 'importlib_metadata', 'more_itertools', 'importlib_resources', 'tomli']",file,8425
+ordered_set.py,"['packaging', 'jaraco', 'pyparsing', 'importlib_metadata', 'more_itertools', 'importlib_resources', 'tomli']",file,15130
+typing_extensions.py,"['packaging', 'jaraco', 'pyparsing', 'importlib_metadata', 'more_itertools', 'importlib_resources', 'tomli']",file,87149
+packaging,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor,dir,96322
+jaraco,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor,dir,34449
+pyparsing,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor,dir,369986
+importlib_metadata,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor,dir,42846
+more_itertools,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor,dir,134297
+importlib_resources,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor,dir,25123
+tomli,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor,dir,26226
+tags.py,[],file,15699
+_musllinux.py,[],file,4378
+version.py,[],file,14665
+__init__.py,[],file,497
+utils.py,[],file,4200
+requirements.py,[],file,4700
+_structures.py,[],file,1431
+markers.py,[],file,8493
+__about__.py,[],file,661
+_manylinux.py,[],file,11488
+specifiers.py,[],file,30110
+functools.py,['text'],file,13512
+__init__.py,['text'],file,0
+context.py,['text'],file,5420
+text,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco,dir,15517
+__init__.py,[],file,15517
+results.py,['diagram'],file,25341
+unicode.py,['diagram'],file,10787
+util.py,['diagram'],file,6805
+actions.py,['diagram'],file,6426
+__init__.py,['diagram'],file,9159
+core.py,['diagram'],file,213310
+common.py,['diagram'],file,12936
+exceptions.py,['diagram'],file,9023
+testing.py,['diagram'],file,13402
+helpers.py,['diagram'],file,39129
+diagram,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor/pyparsing,dir,23668
+__init__.py,[],file,23668
+_meta.py,[],file,1154
+_text.py,[],file,2166
+__init__.py,[],file,30130
+_functools.py,[],file,2895
+_collections.py,[],file,743
+_itertools.py,[],file,2068
+_adapters.py,[],file,1862
+_compat.py,[],file,1828
+__init__.py,[],file,82
+more.py,[],file,117959
+recipes.py,[],file,16256
+readers.py,[],file,3566
+_common.py,[],file,2741
+__init__.py,[],file,506
+_itertools.py,[],file,884
+_adapters.py,[],file,4504
+_compat.py,[],file,2706
+_legacy.py,[],file,3494
+simple.py,[],file,2836
+abc.py,[],file,3886
+_types.py,[],file,254
+__init__.py,[],file,396
+_parser.py,[],file,22633
+_re.py,[],file,2943
+__init__.py,['_validate_pyproject'],file,1121
+setupcfg.py,['_validate_pyproject'],file,25198
+_apply_pyprojecttoml.py,['_validate_pyproject'],file,13398
+pyprojecttoml.py,['_validate_pyproject'],file,19304
+expand.py,['_validate_pyproject'],file,16319
+_validate_pyproject,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/config,dir,293705
+fastjsonschema_exceptions.py,[],file,1612
+extra_validations.py,[],file,1153
+error_reporting.py,[],file,11266
+__init__.py,[],file,1038
+fastjsonschema_validations.py,[],file,269900
+formats.py,[],file,8736
+build.py,[],file,6589
+bdist_egg.py,[],file,16623
+alias.py,[],file,2381
+py36compat.py,[],file,4946
+build_ext.py,[],file,15821
+easy_install.py,[],file,85662
+editable_wheel.py,[],file,31188
+launcher manifest.xml,[],file,628
+install_scripts.py,[],file,2612
+upload.py,[],file,462
+register.py,[],file,468
+dist_info.py,[],file,4800
+install_lib.py,[],file,3875
+upload_docs.py,[],file,7494
+build_py.py,[],file,14115
+__init__.py,[],file,396
+sdist.py,[],file,7071
+test.py,[],file,8102
+saveopts.py,[],file,658
+bdist_rpm.py,[],file,1182
+build_clib.py,[],file,4415
+egg_info.py,[],file,26795
+install.py,[],file,5163
+develop.py,[],file,7012
+rotate.py,[],file,2128
+install_egg_info.py,[],file,2226
+setopt.py,[],file,5086
+__init__.py,[],file,2512
+_msvccompiler.py,['command'],file,19672
+unixccompiler.py,['command'],file,15641
+filelist.py,['command'],file,13713
+ccompiler.py,['command'],file,47369
+msvc9compiler.py,['command'],file,30235
+archive_util.py,['command'],file,8603
+cmd.py,['command'],file,17973
+config.py,['command'],file,4920
+version.py,['command'],file,12952
+log.py,['command'],file,1972
+util.py,['command'],file,18128
+fancy_getopt.py,['command'],file,17910
+versionpredicate.py,['command'],file,5248
+__init__.py,['command'],file,537
+file_util.py,['command'],file,8226
+core.py,['command'],file,9451
+_functools.py,['command'],file,411
+_collections.py,['command'],file,1330
+cygwinccompiler.py,['command'],file,12537
+extension.py,['command'],file,10270
+debug.py,['command'],file,139
+spawn.py,['command'],file,3517
+text_file.py,['command'],file,12096
+msvccompiler.py,['command'],file,23602
+errors.py,['command'],file,3589
+dep_util.py,['command'],file,3423
+dir_util.py,['command'],file,8082
+sysconfig.py,['command'],file,18858
+_macos_compat.py,['command'],file,239
+py39compat.py,['command'],file,639
+py38compat.py,['command'],file,217
+dist.py,['command'],file,50186
+bcppcompiler.py,['command'],file,14789
+command,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_distutils,dir,208459
+build.py,[],file,5617
+py37compat.py,[],file,672
+build_ext.py,[],file,31558
+config.py,[],file,13137
+clean.py,[],file,2603
+check.py,[],file,4888
+install_scripts.py,[],file,1936
+upload.py,[],file,7477
+register.py,[],file,11765
+_framework_compat.py,[],file,1614
+install_headers.py,[],file,1189
+install_lib.py,[],file,8434
+build_py.py,[],file,16568
+bdist_dumb.py,[],file,4701
+__init__.py,[],file,430
+sdist.py,[],file,19241
+bdist.py,[],file,5441
+build_scripts.py,[],file,5624
+bdist_rpm.py,[],file,22051
+build_clib.py,[],file,7728
+install.py,[],file,30221
+install_egg_info.py,[],file,2785
+install_data.py,[],file,2779
+__init__.py,"['_vendor', '__pycache__', 'extern']",file,108568
+_vendor,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources,dir,1588454
+__pycache__,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources,dir,159605
+extern,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources,dir,6778
+__init__.py,"['packaging', 'jaraco', 'pyparsing', '__pycache__', 'more_itertools', 'importlib_resources']",file,0
+appdirs.py,"['packaging', 'jaraco', 'pyparsing', '__pycache__', 'more_itertools', 'importlib_resources']",file,24701
+zipp.py,"['packaging', 'jaraco', 'pyparsing', '__pycache__', 'more_itertools', 'importlib_resources']",file,8425
+packaging,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor,dir,231361
+jaraco,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor,dir,91133
+pyparsing,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor,dir,831620
+__pycache__,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor,dir,29714
+more_itertools,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor,dir,346377
+importlib_resources,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor,dir,25123
+tags.py,['__pycache__'],file,15699
+_musllinux.py,['__pycache__'],file,4378
+version.py,['__pycache__'],file,14665
+__init__.py,['__pycache__'],file,497
+utils.py,['__pycache__'],file,4200
+requirements.py,['__pycache__'],file,4706
+_structures.py,['__pycache__'],file,1431
+markers.py,['__pycache__'],file,8496
+__about__.py,['__pycache__'],file,661
+_manylinux.py,['__pycache__'],file,11488
+specifiers.py,['__pycache__'],file,30110
+__pycache__,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor/packaging,dir,135030
+markers.cpython-311.pyc,[],file,16576
+requirements.cpython-311.pyc,[],file,7691
+_musllinux.cpython-311.pyc,[],file,8039
+tags.cpython-311.pyc,[],file,21390
+utils.cpython-311.pyc,[],file,6725
+__about__.cpython-311.pyc,[],file,684
+_manylinux.cpython-311.pyc,[],file,13271
+version.cpython-311.pyc,[],file,21917
+specifiers.cpython-311.pyc,[],file,34405
+__init__.cpython-311.pyc,[],file,605
+_structures.cpython-311.pyc,[],file,3727
+functools.py,"['__pycache__', 'text']",file,13515
+__init__.py,"['__pycache__', 'text']",file,0
+context.py,"['__pycache__', 'text']",file,5420
+__pycache__,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor/jaraco,dir,30029
+text,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor/jaraco,dir,42169
+functools.cpython-311.pyc,[],file,20326
+context.cpython-311.pyc,[],file,9463
+__init__.cpython-311.pyc,[],file,240
+__init__.py,['__pycache__'],file,15526
+__pycache__,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor/jaraco/text,dir,26643
+__init__.cpython-311.pyc,[],file,26643
+results.py,"['diagram', '__pycache__']",file,25341
+unicode.py,"['diagram', '__pycache__']",file,10787
+util.py,"['diagram', '__pycache__']",file,6805
+actions.py,"['diagram', '__pycache__']",file,6426
+__init__.py,"['diagram', '__pycache__']",file,9159
+core.py,"['diagram', '__pycache__']",file,213310
+common.py,"['diagram', '__pycache__']",file,12936
+exceptions.py,"['diagram', '__pycache__']",file,9023
+testing.py,"['diagram', '__pycache__']",file,13402
+helpers.py,"['diagram', '__pycache__']",file,39129
+diagram,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor/pyparsing,dir,23668
+__pycache__,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor/pyparsing,dir,461634
+__init__.py,[],file,23668
+helpers.cpython-311.pyc,[],file,53669
+core.cpython-311.pyc,[],file,277678
+unicode.cpython-311.pyc,[],file,15406
+testing.cpython-311.pyc,[],file,19548
+common.cpython-311.pyc,[],file,14826
+actions.cpython-311.pyc,[],file,8504
+exceptions.cpython-311.pyc,[],file,12968
+util.cpython-311.pyc,[],file,14305
+results.cpython-311.pyc,[],file,36352
+__init__.cpython-311.pyc,[],file,8378
+appdirs.cpython-311.pyc,[],file,29481
+__init__.cpython-311.pyc,[],file,233
+__init__.py,['__pycache__'],file,83
+more.py,['__pycache__'],file,132569
+recipes.py,['__pycache__'],file,18410
+__pycache__,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor/more_itertools,dir,195315
+more.cpython-311.pyc,[],file,167995
+recipes.cpython-311.pyc,[],file,26986
+__init__.cpython-311.pyc,[],file,334
+readers.py,[],file,3566
+_common.py,[],file,2741
+__init__.py,[],file,506
+_itertools.py,[],file,884
+_adapters.py,[],file,4504
+_compat.py,[],file,2706
+_legacy.py,[],file,3494
+simple.py,[],file,2836
+abc.py,[],file,3886
+__init__.cpython-311.pyc,[],file,159605
+__init__.py,['__pycache__'],file,2426
+__pycache__,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/extern,dir,4352
+__init__.cpython-311.pyc,[],file,4352
+__init__.py,['__pycache__'],file,6128
+override.py,['__pycache__'],file,44
+__pycache__,/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/_distutils_hack,dir,11192
+__init__.cpython-311.pyc,[],file,11192

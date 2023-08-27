@@ -1,0 +1,6853 @@
+[
+    {
+        "name": "task_5.py",
+        "parent": [
+            "venv"
+        ],
+        "type": "file",
+        "size": 631
+    },
+    {
+        "name": "task_1.py",
+        "parent": [
+            "venv"
+        ],
+        "type": "file",
+        "size": 940
+    },
+    {
+        "name": "task_4_users.json",
+        "parent": [
+            "venv"
+        ],
+        "type": "file",
+        "size": 362
+    },
+    {
+        "name": "result.txt",
+        "parent": [
+            "venv"
+        ],
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "task_4.py",
+        "parent": [
+            "venv"
+        ],
+        "type": "file",
+        "size": 1292
+    },
+    {
+        "name": "directory_walker.py",
+        "parent": [
+            "venv"
+        ],
+        "type": "file",
+        "size": 2443
+    },
+    {
+        "name": "users.csv",
+        "parent": [
+            "venv"
+        ],
+        "type": "file",
+        "size": 47
+    },
+    {
+        "name": "output.json",
+        "parent": [
+            "venv"
+        ],
+        "type": "file",
+        "size": 170
+    },
+    {
+        "name": "users.json",
+        "parent": [
+            "venv"
+        ],
+        "type": "file",
+        "size": 136
+    },
+    {
+        "name": "users.pickle",
+        "parent": [
+            "venv"
+        ],
+        "type": "file",
+        "size": 90
+    },
+    {
+        "name": "task_3.py",
+        "parent": [
+            "venv"
+        ],
+        "type": "file",
+        "size": 860
+    },
+    {
+        "name": "task_2.py",
+        "parent": [
+            "venv"
+        ],
+        "type": "file",
+        "size": 1742
+    },
+    {
+        "name": "venv",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8",
+        "type": "dir",
+        "size": 12466272
+    },
+    {
+        "name": "pyvenv.cfg",
+        "parent": [
+            "bin",
+            "lib"
+        ],
+        "type": "file",
+        "size": 314
+    },
+    {
+        "name": ".gitignore",
+        "parent": [
+            "bin",
+            "lib"
+        ],
+        "type": "file",
+        "size": 40
+    },
+    {
+        "name": "bin",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv",
+        "type": "dir",
+        "size": 472990
+    },
+    {
+        "name": "lib",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv",
+        "type": "dir",
+        "size": 11992928
+    },
+    {
+        "name": "wheel3.11",
+        "parent": [],
+        "type": "file",
+        "size": 264
+    },
+    {
+        "name": "wheel3",
+        "parent": [],
+        "type": "file",
+        "size": 264
+    },
+    {
+        "name": "activate.ps1",
+        "parent": [],
+        "type": "file",
+        "size": 1754
+    },
+    {
+        "name": "python3",
+        "parent": [],
+        "type": "file",
+        "size": 152624
+    },
+    {
+        "name": "python",
+        "parent": [],
+        "type": "file",
+        "size": 152624
+    },
+    {
+        "name": "pip3",
+        "parent": [],
+        "type": "file",
+        "size": 277
+    },
+    {
+        "name": "deactivate.nu",
+        "parent": [],
+        "type": "file",
+        "size": 682
+    },
+    {
+        "name": "pip-3.11",
+        "parent": [],
+        "type": "file",
+        "size": 277
+    },
+    {
+        "name": "activate.fish",
+        "parent": [],
+        "type": "file",
+        "size": 3057
+    },
+    {
+        "name": "wheel",
+        "parent": [],
+        "type": "file",
+        "size": 264
+    },
+    {
+        "name": "python3.11",
+        "parent": [],
+        "type": "file",
+        "size": 152624
+    },
+    {
+        "name": "wheel-3.11",
+        "parent": [],
+        "type": "file",
+        "size": 264
+    },
+    {
+        "name": "activate_this.py",
+        "parent": [],
+        "type": "file",
+        "size": 1176
+    },
+    {
+        "name": "pip",
+        "parent": [],
+        "type": "file",
+        "size": 277
+    },
+    {
+        "name": "pip3.11",
+        "parent": [],
+        "type": "file",
+        "size": 277
+    },
+    {
+        "name": "activate",
+        "parent": [],
+        "type": "file",
+        "size": 2180
+    },
+    {
+        "name": "activate.nu",
+        "parent": [],
+        "type": "file",
+        "size": 2633
+    },
+    {
+        "name": "activate.csh",
+        "parent": [],
+        "type": "file",
+        "size": 1472
+    },
+    {
+        "name": "python3.11",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib",
+        "type": "dir",
+        "size": 11992928
+    },
+    {
+        "name": "site-packages",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11",
+        "type": "dir",
+        "size": 11992928
+    },
+    {
+        "name": "pip-22.3.1.virtualenv",
+        "parent": [
+            "setuptools-65.5.1.dist-info",
+            "wheel",
+            "__pycache__",
+            "pip",
+            "pip-22.3.1.dist-info",
+            "wheel-0.38.4.dist-info",
+            "setuptools",
+            "pkg_resources",
+            "_distutils_hack"
+        ],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "_virtualenv.py",
+        "parent": [
+            "setuptools-65.5.1.dist-info",
+            "wheel",
+            "__pycache__",
+            "pip",
+            "pip-22.3.1.dist-info",
+            "wheel-0.38.4.dist-info",
+            "setuptools",
+            "pkg_resources",
+            "_distutils_hack"
+        ],
+        "type": "file",
+        "size": 5640
+    },
+    {
+        "name": "distutils-precedence.pth",
+        "parent": [
+            "setuptools-65.5.1.dist-info",
+            "wheel",
+            "__pycache__",
+            "pip",
+            "pip-22.3.1.dist-info",
+            "wheel-0.38.4.dist-info",
+            "setuptools",
+            "pkg_resources",
+            "_distutils_hack"
+        ],
+        "type": "file",
+        "size": 151
+    },
+    {
+        "name": "_virtualenv.pth",
+        "parent": [
+            "setuptools-65.5.1.dist-info",
+            "wheel",
+            "__pycache__",
+            "pip",
+            "pip-22.3.1.dist-info",
+            "wheel-0.38.4.dist-info",
+            "setuptools",
+            "pkg_resources",
+            "_distutils_hack"
+        ],
+        "type": "file",
+        "size": 18
+    },
+    {
+        "name": "wheel-0.38.4.virtualenv",
+        "parent": [
+            "setuptools-65.5.1.dist-info",
+            "wheel",
+            "__pycache__",
+            "pip",
+            "pip-22.3.1.dist-info",
+            "wheel-0.38.4.dist-info",
+            "setuptools",
+            "pkg_resources",
+            "_distutils_hack"
+        ],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "setuptools-65.5.1.virtualenv",
+        "parent": [
+            "setuptools-65.5.1.dist-info",
+            "wheel",
+            "__pycache__",
+            "pip",
+            "pip-22.3.1.dist-info",
+            "wheel-0.38.4.dist-info",
+            "setuptools",
+            "pkg_resources",
+            "_distutils_hack"
+        ],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "setuptools-65.5.1.dist-info",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages",
+        "type": "dir",
+        "size": 45894
+    },
+    {
+        "name": "wheel",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages",
+        "type": "dir",
+        "size": 95910
+    },
+    {
+        "name": "__pycache__",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages",
+        "type": "dir",
+        "size": 6949
+    },
+    {
+        "name": "pip",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages",
+        "type": "dir",
+        "size": 6847400
+    },
+    {
+        "name": "pip-22.3.1.dist-info",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages",
+        "type": "dir",
+        "size": 76649
+    },
+    {
+        "name": "wheel-0.38.4.dist-info",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages",
+        "type": "dir",
+        "size": 6241
+    },
+    {
+        "name": "setuptools",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages",
+        "type": "dir",
+        "size": 3027307
+    },
+    {
+        "name": "pkg_resources",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages",
+        "type": "dir",
+        "size": 1863405
+    },
+    {
+        "name": "_distutils_hack",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages",
+        "type": "dir",
+        "size": 17364
+    },
+    {
+        "name": "RECORD",
+        "parent": [],
+        "type": "file",
+        "size": 35656
+    },
+    {
+        "name": "LICENSE",
+        "parent": [],
+        "type": "file",
+        "size": 1050
+    },
+    {
+        "name": "WHEEL",
+        "parent": [],
+        "type": "file",
+        "size": 92
+    },
+    {
+        "name": "entry_points.txt",
+        "parent": [],
+        "type": "file",
+        "size": 2740
+    },
+    {
+        "name": "top_level.txt",
+        "parent": [],
+        "type": "file",
+        "size": 41
+    },
+    {
+        "name": "INSTALLER",
+        "parent": [],
+        "type": "file",
+        "size": 4
+    },
+    {
+        "name": "METADATA",
+        "parent": [],
+        "type": "file",
+        "size": 6311
+    },
+    {
+        "name": "metadata.py",
+        "parent": [
+            "cli",
+            "vendored"
+        ],
+        "type": "file",
+        "size": 3727
+    },
+    {
+        "name": "macosx_libfile.py",
+        "parent": [
+            "cli",
+            "vendored"
+        ],
+        "type": "file",
+        "size": 16145
+    },
+    {
+        "name": "util.py",
+        "parent": [
+            "cli",
+            "vendored"
+        ],
+        "type": "file",
+        "size": 621
+    },
+    {
+        "name": "_setuptools_logging.py",
+        "parent": [
+            "cli",
+            "vendored"
+        ],
+        "type": "file",
+        "size": 746
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "cli",
+            "vendored"
+        ],
+        "type": "file",
+        "size": 59
+    },
+    {
+        "name": "bdist_wheel.py",
+        "parent": [
+            "cli",
+            "vendored"
+        ],
+        "type": "file",
+        "size": 19293
+    },
+    {
+        "name": "wheelfile.py",
+        "parent": [
+            "cli",
+            "vendored"
+        ],
+        "type": "file",
+        "size": 7536
+    },
+    {
+        "name": "__main__.py",
+        "parent": [
+            "cli",
+            "vendored"
+        ],
+        "type": "file",
+        "size": 455
+    },
+    {
+        "name": "cli",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/wheel",
+        "type": "dir",
+        "size": 15853
+    },
+    {
+        "name": "vendored",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/wheel",
+        "type": "dir",
+        "size": 31475
+    },
+    {
+        "name": "pack.py",
+        "parent": [],
+        "type": "file",
+        "size": 3383
+    },
+    {
+        "name": "convert.py",
+        "parent": [],
+        "type": "file",
+        "size": 9427
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 2384
+    },
+    {
+        "name": "unpack.py",
+        "parent": [],
+        "type": "file",
+        "size": 659
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "packaging"
+        ],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "packaging",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/wheel/vendored",
+        "type": "dir",
+        "size": 31475
+    },
+    {
+        "name": "tags.py",
+        "parent": [],
+        "type": "file",
+        "size": 15612
+    },
+    {
+        "name": "_musllinux.py",
+        "parent": [],
+        "type": "file",
+        "size": 4374
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "_manylinux.py",
+        "parent": [],
+        "type": "file",
+        "size": 11489
+    },
+    {
+        "name": "_virtualenv.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 6949
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "_internal",
+            "_vendor"
+        ],
+        "type": "file",
+        "size": 357
+    },
+    {
+        "name": "py.typed",
+        "parent": [
+            "_internal",
+            "_vendor"
+        ],
+        "type": "file",
+        "size": 286
+    },
+    {
+        "name": "__pip-runner__.py",
+        "parent": [
+            "_internal",
+            "_vendor"
+        ],
+        "type": "file",
+        "size": 1444
+    },
+    {
+        "name": "__main__.py",
+        "parent": [
+            "_internal",
+            "_vendor"
+        ],
+        "type": "file",
+        "size": 1198
+    },
+    {
+        "name": "_internal",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip",
+        "type": "dir",
+        "size": 1035611
+    },
+    {
+        "name": "_vendor",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip",
+        "type": "dir",
+        "size": 5808504
+    },
+    {
+        "name": "configuration.py",
+        "parent": [
+            "network",
+            "utils",
+            "models",
+            "cli",
+            "operations",
+            "req",
+            "resolution",
+            "vcs",
+            "locations",
+            "index",
+            "commands",
+            "metadata",
+            "distributions"
+        ],
+        "type": "file",
+        "size": 13529
+    },
+    {
+        "name": "pyproject.py",
+        "parent": [
+            "network",
+            "utils",
+            "models",
+            "cli",
+            "operations",
+            "req",
+            "resolution",
+            "vcs",
+            "locations",
+            "index",
+            "commands",
+            "metadata",
+            "distributions"
+        ],
+        "type": "file",
+        "size": 7074
+    },
+    {
+        "name": "cache.py",
+        "parent": [
+            "network",
+            "utils",
+            "models",
+            "cli",
+            "operations",
+            "req",
+            "resolution",
+            "vcs",
+            "locations",
+            "index",
+            "commands",
+            "metadata",
+            "distributions"
+        ],
+        "type": "file",
+        "size": 10734
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "network",
+            "utils",
+            "models",
+            "cli",
+            "operations",
+            "req",
+            "resolution",
+            "vcs",
+            "locations",
+            "index",
+            "commands",
+            "metadata",
+            "distributions"
+        ],
+        "type": "file",
+        "size": 573
+    },
+    {
+        "name": "exceptions.py",
+        "parent": [
+            "network",
+            "utils",
+            "models",
+            "cli",
+            "operations",
+            "req",
+            "resolution",
+            "vcs",
+            "locations",
+            "index",
+            "commands",
+            "metadata",
+            "distributions"
+        ],
+        "type": "file",
+        "size": 20942
+    },
+    {
+        "name": "main.py",
+        "parent": [
+            "network",
+            "utils",
+            "models",
+            "cli",
+            "operations",
+            "req",
+            "resolution",
+            "vcs",
+            "locations",
+            "index",
+            "commands",
+            "metadata",
+            "distributions"
+        ],
+        "type": "file",
+        "size": 340
+    },
+    {
+        "name": "wheel_builder.py",
+        "parent": [
+            "network",
+            "utils",
+            "models",
+            "cli",
+            "operations",
+            "req",
+            "resolution",
+            "vcs",
+            "locations",
+            "index",
+            "commands",
+            "metadata",
+            "distributions"
+        ],
+        "type": "file",
+        "size": 13079
+    },
+    {
+        "name": "self_outdated_check.py",
+        "parent": [
+            "network",
+            "utils",
+            "models",
+            "cli",
+            "operations",
+            "req",
+            "resolution",
+            "vcs",
+            "locations",
+            "index",
+            "commands",
+            "metadata",
+            "distributions"
+        ],
+        "type": "file",
+        "size": 8020
+    },
+    {
+        "name": "build_env.py",
+        "parent": [
+            "network",
+            "utils",
+            "models",
+            "cli",
+            "operations",
+            "req",
+            "resolution",
+            "vcs",
+            "locations",
+            "index",
+            "commands",
+            "metadata",
+            "distributions"
+        ],
+        "type": "file",
+        "size": 10234
+    },
+    {
+        "name": "network",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal",
+        "type": "dir",
+        "size": 52426
+    },
+    {
+        "name": "utils",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal",
+        "type": "dir",
+        "size": 118977
+    },
+    {
+        "name": "models",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal",
+        "type": "dir",
+        "size": 45927
+    },
+    {
+        "name": "cli",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal",
+        "type": "dir",
+        "size": 87806
+    },
+    {
+        "name": "operations",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal",
+        "type": "dir",
+        "size": 87624
+    },
+    {
+        "name": "req",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal",
+        "type": "dir",
+        "size": 99567
+    },
+    {
+        "name": "resolution",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal",
+        "type": "dir",
+        "size": 111906
+    },
+    {
+        "name": "vcs",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal",
+        "type": "dir",
+        "size": 62007
+    },
+    {
+        "name": "locations",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal",
+        "type": "dir",
+        "size": 34294
+    },
+    {
+        "name": "index",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal",
+        "type": "dir",
+        "size": 60686
+    },
+    {
+        "name": "commands",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal",
+        "type": "dir",
+        "size": 119848
+    },
+    {
+        "name": "metadata",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal",
+        "type": "dir",
+        "size": 59552
+    },
+    {
+        "name": "distributions",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal",
+        "type": "dir",
+        "size": 10466
+    },
+    {
+        "name": "auth.py",
+        "parent": [],
+        "type": "file",
+        "size": 12190
+    },
+    {
+        "name": "xmlrpc.py",
+        "parent": [],
+        "type": "file",
+        "size": 1791
+    },
+    {
+        "name": "download.py",
+        "parent": [],
+        "type": "file",
+        "size": 6096
+    },
+    {
+        "name": "session.py",
+        "parent": [],
+        "type": "file",
+        "size": 18443
+    },
+    {
+        "name": "cache.py",
+        "parent": [],
+        "type": "file",
+        "size": 2145
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 50
+    },
+    {
+        "name": "utils.py",
+        "parent": [],
+        "type": "file",
+        "size": 4073
+    },
+    {
+        "name": "lazy_wheel.py",
+        "parent": [],
+        "type": "file",
+        "size": 7638
+    },
+    {
+        "name": "logging.py",
+        "parent": [],
+        "type": "file",
+        "size": 11632
+    },
+    {
+        "name": "misc.py",
+        "parent": [],
+        "type": "file",
+        "size": 21617
+    },
+    {
+        "name": "egg_link.py",
+        "parent": [],
+        "type": "file",
+        "size": 2203
+    },
+    {
+        "name": "compat.py",
+        "parent": [],
+        "type": "file",
+        "size": 1884
+    },
+    {
+        "name": "encoding.py",
+        "parent": [],
+        "type": "file",
+        "size": 1169
+    },
+    {
+        "name": "models.py",
+        "parent": [],
+        "type": "file",
+        "size": 1193
+    },
+    {
+        "name": "deprecation.py",
+        "parent": [],
+        "type": "file",
+        "size": 5764
+    },
+    {
+        "name": "subprocess.py",
+        "parent": [],
+        "type": "file",
+        "size": 9197
+    },
+    {
+        "name": "filesystem.py",
+        "parent": [],
+        "type": "file",
+        "size": 5122
+    },
+    {
+        "name": "direct_url_helpers.py",
+        "parent": [],
+        "type": "file",
+        "size": 3206
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "temp_dir.py",
+        "parent": [],
+        "type": "file",
+        "size": 7702
+    },
+    {
+        "name": "appdirs.py",
+        "parent": [],
+        "type": "file",
+        "size": 1665
+    },
+    {
+        "name": "inject_securetransport.py",
+        "parent": [],
+        "type": "file",
+        "size": 795
+    },
+    {
+        "name": "setuptools_build.py",
+        "parent": [],
+        "type": "file",
+        "size": 5662
+    },
+    {
+        "name": "packaging.py",
+        "parent": [],
+        "type": "file",
+        "size": 2108
+    },
+    {
+        "name": "distutils_args.py",
+        "parent": [],
+        "type": "file",
+        "size": 1115
+    },
+    {
+        "name": "entrypoints.py",
+        "parent": [],
+        "type": "file",
+        "size": 3064
+    },
+    {
+        "name": "filetypes.py",
+        "parent": [],
+        "type": "file",
+        "size": 716
+    },
+    {
+        "name": "compatibility_tags.py",
+        "parent": [],
+        "type": "file",
+        "size": 5377
+    },
+    {
+        "name": "datetime.py",
+        "parent": [],
+        "type": "file",
+        "size": 242
+    },
+    {
+        "name": "urls.py",
+        "parent": [],
+        "type": "file",
+        "size": 1759
+    },
+    {
+        "name": "hashes.py",
+        "parent": [],
+        "type": "file",
+        "size": 4831
+    },
+    {
+        "name": "virtualenv.py",
+        "parent": [],
+        "type": "file",
+        "size": 3459
+    },
+    {
+        "name": "_log.py",
+        "parent": [],
+        "type": "file",
+        "size": 1015
+    },
+    {
+        "name": "glibc.py",
+        "parent": [],
+        "type": "file",
+        "size": 3110
+    },
+    {
+        "name": "wheel.py",
+        "parent": [],
+        "type": "file",
+        "size": 4549
+    },
+    {
+        "name": "unpacking.py",
+        "parent": [],
+        "type": "file",
+        "size": 8821
+    },
+    {
+        "name": "link.py",
+        "parent": [],
+        "type": "file",
+        "size": 18083
+    },
+    {
+        "name": "selection_prefs.py",
+        "parent": [],
+        "type": "file",
+        "size": 1907
+    },
+    {
+        "name": "direct_url.py",
+        "parent": [],
+        "type": "file",
+        "size": 5877
+    },
+    {
+        "name": "index.py",
+        "parent": [],
+        "type": "file",
+        "size": 1030
+    },
+    {
+        "name": "target_python.py",
+        "parent": [],
+        "type": "file",
+        "size": 3858
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "search_scope.py",
+        "parent": [],
+        "type": "file",
+        "size": 4644
+    },
+    {
+        "name": "candidate.py",
+        "parent": [],
+        "type": "file",
+        "size": 990
+    },
+    {
+        "name": "format_control.py",
+        "parent": [],
+        "type": "file",
+        "size": 2520
+    },
+    {
+        "name": "installation_report.py",
+        "parent": [],
+        "type": "file",
+        "size": 2617
+    },
+    {
+        "name": "scheme.py",
+        "parent": [],
+        "type": "file",
+        "size": 738
+    },
+    {
+        "name": "wheel.py",
+        "parent": [],
+        "type": "file",
+        "size": 3600
+    },
+    {
+        "name": "cmdoptions.py",
+        "parent": [],
+        "type": "file",
+        "size": 29381
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 132
+    },
+    {
+        "name": "status_codes.py",
+        "parent": [],
+        "type": "file",
+        "size": 116
+    },
+    {
+        "name": "parser.py",
+        "parent": [],
+        "type": "file",
+        "size": 10817
+    },
+    {
+        "name": "command_context.py",
+        "parent": [],
+        "type": "file",
+        "size": 774
+    },
+    {
+        "name": "spinners.py",
+        "parent": [],
+        "type": "file",
+        "size": 5118
+    },
+    {
+        "name": "autocompletion.py",
+        "parent": [],
+        "type": "file",
+        "size": 6676
+    },
+    {
+        "name": "base_command.py",
+        "parent": [],
+        "type": "file",
+        "size": 7842
+    },
+    {
+        "name": "main_parser.py",
+        "parent": [],
+        "type": "file",
+        "size": 4338
+    },
+    {
+        "name": "progress_bars.py",
+        "parent": [],
+        "type": "file",
+        "size": 1968
+    },
+    {
+        "name": "main.py",
+        "parent": [],
+        "type": "file",
+        "size": 2472
+    },
+    {
+        "name": "req_command.py",
+        "parent": [],
+        "type": "file",
+        "size": 18172
+    },
+    {
+        "name": "check.py",
+        "parent": [
+            "install",
+            "build"
+        ],
+        "type": "file",
+        "size": 5109
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "install",
+            "build"
+        ],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "freeze.py",
+        "parent": [
+            "install",
+            "build"
+        ],
+        "type": "file",
+        "size": 9784
+    },
+    {
+        "name": "prepare.py",
+        "parent": [
+            "install",
+            "build"
+        ],
+        "type": "file",
+        "size": 25091
+    },
+    {
+        "name": "install",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal/operations",
+        "type": "dir",
+        "size": 32917
+    },
+    {
+        "name": "build",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal/operations",
+        "type": "dir",
+        "size": 14723
+    },
+    {
+        "name": "legacy.py",
+        "parent": [],
+        "type": "file",
+        "size": 4105
+    },
+    {
+        "name": "editable_legacy.py",
+        "parent": [],
+        "type": "file",
+        "size": 1354
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 51
+    },
+    {
+        "name": "wheel.py",
+        "parent": [],
+        "type": "file",
+        "size": 27407
+    },
+    {
+        "name": "wheel_legacy.py",
+        "parent": [],
+        "type": "file",
+        "size": 3064
+    },
+    {
+        "name": "metadata.py",
+        "parent": [],
+        "type": "file",
+        "size": 1404
+    },
+    {
+        "name": "metadata_editable.py",
+        "parent": [],
+        "type": "file",
+        "size": 1456
+    },
+    {
+        "name": "wheel_editable.py",
+        "parent": [],
+        "type": "file",
+        "size": 1405
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "metadata_legacy.py",
+        "parent": [],
+        "type": "file",
+        "size": 2198
+    },
+    {
+        "name": "wheel.py",
+        "parent": [],
+        "type": "file",
+        "size": 1063
+    },
+    {
+        "name": "build_tracker.py",
+        "parent": [],
+        "type": "file",
+        "size": 4133
+    },
+    {
+        "name": "req_install.py",
+        "parent": [],
+        "type": "file",
+        "size": 35600
+    },
+    {
+        "name": "req_set.py",
+        "parent": [],
+        "type": "file",
+        "size": 2858
+    },
+    {
+        "name": "req_uninstall.py",
+        "parent": [],
+        "type": "file",
+        "size": 24045
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 2807
+    },
+    {
+        "name": "req_file.py",
+        "parent": [],
+        "type": "file",
+        "size": 17646
+    },
+    {
+        "name": "constructors.py",
+        "parent": [],
+        "type": "file",
+        "size": 16611
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "legacy",
+            "resolvelib"
+        ],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "base.py",
+        "parent": [
+            "legacy",
+            "resolvelib"
+        ],
+        "type": "file",
+        "size": 583
+    },
+    {
+        "name": "legacy",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal/resolution",
+        "type": "dir",
+        "size": 24129
+    },
+    {
+        "name": "resolvelib",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal/resolution",
+        "type": "dir",
+        "size": 87194
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "resolver.py",
+        "parent": [],
+        "type": "file",
+        "size": 24129
+    },
+    {
+        "name": "provider.py",
+        "parent": [],
+        "type": "file",
+        "size": 9914
+    },
+    {
+        "name": "found_candidates.py",
+        "parent": [],
+        "type": "file",
+        "size": 5705
+    },
+    {
+        "name": "reporter.py",
+        "parent": [],
+        "type": "file",
+        "size": 2526
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "factory.py",
+        "parent": [],
+        "type": "file",
+        "size": 27878
+    },
+    {
+        "name": "requirements.py",
+        "parent": [],
+        "type": "file",
+        "size": 5455
+    },
+    {
+        "name": "resolver.py",
+        "parent": [],
+        "type": "file",
+        "size": 11533
+    },
+    {
+        "name": "candidates.py",
+        "parent": [],
+        "type": "file",
+        "size": 18963
+    },
+    {
+        "name": "base.py",
+        "parent": [],
+        "type": "file",
+        "size": 5220
+    },
+    {
+        "name": "git.py",
+        "parent": [],
+        "type": "file",
+        "size": 18116
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 596
+    },
+    {
+        "name": "mercurial.py",
+        "parent": [],
+        "type": "file",
+        "size": 5238
+    },
+    {
+        "name": "bazaar.py",
+        "parent": [],
+        "type": "file",
+        "size": 3518
+    },
+    {
+        "name": "versioncontrol.py",
+        "parent": [],
+        "type": "file",
+        "size": 22811
+    },
+    {
+        "name": "subversion.py",
+        "parent": [],
+        "type": "file",
+        "size": 11728
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 17552
+    },
+    {
+        "name": "_sysconfig.py",
+        "parent": [],
+        "type": "file",
+        "size": 7867
+    },
+    {
+        "name": "_distutils.py",
+        "parent": [],
+        "type": "file",
+        "size": 6302
+    },
+    {
+        "name": "base.py",
+        "parent": [],
+        "type": "file",
+        "size": 2573
+    },
+    {
+        "name": "collector.py",
+        "parent": [],
+        "type": "file",
+        "size": 16503
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 30
+    },
+    {
+        "name": "sources.py",
+        "parent": [],
+        "type": "file",
+        "size": 6557
+    },
+    {
+        "name": "package_finder.py",
+        "parent": [],
+        "type": "file",
+        "size": 37596
+    },
+    {
+        "name": "configuration.py",
+        "parent": [],
+        "type": "file",
+        "size": 9815
+    },
+    {
+        "name": "show.py",
+        "parent": [],
+        "type": "file",
+        "size": 6129
+    },
+    {
+        "name": "list.py",
+        "parent": [],
+        "type": "file",
+        "size": 12343
+    },
+    {
+        "name": "check.py",
+        "parent": [],
+        "type": "file",
+        "size": 1685
+    },
+    {
+        "name": "index.py",
+        "parent": [],
+        "type": "file",
+        "size": 4762
+    },
+    {
+        "name": "completion.py",
+        "parent": [],
+        "type": "file",
+        "size": 4129
+    },
+    {
+        "name": "download.py",
+        "parent": [],
+        "type": "file",
+        "size": 5289
+    },
+    {
+        "name": "cache.py",
+        "parent": [],
+        "type": "file",
+        "size": 7582
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 3882
+    },
+    {
+        "name": "hash.py",
+        "parent": [],
+        "type": "file",
+        "size": 1703
+    },
+    {
+        "name": "inspect.py",
+        "parent": [],
+        "type": "file",
+        "size": 3374
+    },
+    {
+        "name": "debug.py",
+        "parent": [],
+        "type": "file",
+        "size": 6573
+    },
+    {
+        "name": "uninstall.py",
+        "parent": [],
+        "type": "file",
+        "size": 3680
+    },
+    {
+        "name": "freeze.py",
+        "parent": [],
+        "type": "file",
+        "size": 2951
+    },
+    {
+        "name": "search.py",
+        "parent": [],
+        "type": "file",
+        "size": 5697
+    },
+    {
+        "name": "install.py",
+        "parent": [],
+        "type": "file",
+        "size": 31726
+    },
+    {
+        "name": "help.py",
+        "parent": [],
+        "type": "file",
+        "size": 1132
+    },
+    {
+        "name": "wheel.py",
+        "parent": [],
+        "type": "file",
+        "size": 7396
+    },
+    {
+        "name": "_json.py",
+        "parent": [
+            "importlib"
+        ],
+        "type": "file",
+        "size": 2595
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "importlib"
+        ],
+        "type": "file",
+        "size": 4280
+    },
+    {
+        "name": "pkg_resources.py",
+        "parent": [
+            "importlib"
+        ],
+        "type": "file",
+        "size": 9773
+    },
+    {
+        "name": "base.py",
+        "parent": [
+            "importlib"
+        ],
+        "type": "file",
+        "size": 25277
+    },
+    {
+        "name": "importlib",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_internal/metadata",
+        "type": "dir",
+        "size": 17627
+    },
+    {
+        "name": "_dists.py",
+        "parent": [],
+        "type": "file",
+        "size": 8181
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 107
+    },
+    {
+        "name": "_compat.py",
+        "parent": [],
+        "type": "file",
+        "size": 1882
+    },
+    {
+        "name": "_envs.py",
+        "parent": [],
+        "type": "file",
+        "size": 7457
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 858
+    },
+    {
+        "name": "sdist.py",
+        "parent": [],
+        "type": "file",
+        "size": 6494
+    },
+    {
+        "name": "installed.py",
+        "parent": [],
+        "type": "file",
+        "size": 729
+    },
+    {
+        "name": "base.py",
+        "parent": [],
+        "type": "file",
+        "size": 1221
+    },
+    {
+        "name": "wheel.py",
+        "parent": [],
+        "type": "file",
+        "size": 1164
+    },
+    {
+        "name": "vendor.txt",
+        "parent": [
+            "packaging",
+            "msgpack",
+            "chardet",
+            "webencodings",
+            "pygments",
+            "pep517",
+            "distlib",
+            "pyparsing",
+            "distro",
+            "colorama",
+            "cachecontrol",
+            "idna",
+            "tenacity",
+            "requests",
+            "tomli",
+            "certifi",
+            "rich",
+            "urllib3",
+            "pkg_resources",
+            "resolvelib",
+            "platformdirs"
+        ],
+        "type": "file",
+        "size": 469
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "packaging",
+            "msgpack",
+            "chardet",
+            "webencodings",
+            "pygments",
+            "pep517",
+            "distlib",
+            "pyparsing",
+            "distro",
+            "colorama",
+            "cachecontrol",
+            "idna",
+            "tenacity",
+            "requests",
+            "tomli",
+            "certifi",
+            "rich",
+            "urllib3",
+            "pkg_resources",
+            "resolvelib",
+            "platformdirs"
+        ],
+        "type": "file",
+        "size": 4966
+    },
+    {
+        "name": "six.py",
+        "parent": [
+            "packaging",
+            "msgpack",
+            "chardet",
+            "webencodings",
+            "pygments",
+            "pep517",
+            "distlib",
+            "pyparsing",
+            "distro",
+            "colorama",
+            "cachecontrol",
+            "idna",
+            "tenacity",
+            "requests",
+            "tomli",
+            "certifi",
+            "rich",
+            "urllib3",
+            "pkg_resources",
+            "resolvelib",
+            "platformdirs"
+        ],
+        "type": "file",
+        "size": 34549
+    },
+    {
+        "name": "typing_extensions.py",
+        "parent": [
+            "packaging",
+            "msgpack",
+            "chardet",
+            "webencodings",
+            "pygments",
+            "pep517",
+            "distlib",
+            "pyparsing",
+            "distro",
+            "colorama",
+            "cachecontrol",
+            "idna",
+            "tenacity",
+            "requests",
+            "tomli",
+            "certifi",
+            "rich",
+            "urllib3",
+            "pkg_resources",
+            "resolvelib",
+            "platformdirs"
+        ],
+        "type": "file",
+        "size": 80114
+    },
+    {
+        "name": "packaging",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 96292
+    },
+    {
+        "name": "msgpack",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 42850
+    },
+    {
+        "name": "chardet",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 1092504
+    },
+    {
+        "name": "webencodings",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 31733
+    },
+    {
+        "name": "pygments",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 479266
+    },
+    {
+        "name": "pep517",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 47390
+    },
+    {
+        "name": "distlib",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 1139219
+    },
+    {
+        "name": "pyparsing",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 370049
+    },
+    {
+        "name": "distro",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 49886
+    },
+    {
+        "name": "colorama",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 27348
+    },
+    {
+        "name": "cachecontrol",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 48131
+    },
+    {
+        "name": "idna",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 270310
+    },
+    {
+        "name": "tenacity",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 50281
+    },
+    {
+        "name": "requests",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 180427
+    },
+    {
+        "name": "tomli",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 26226
+    },
+    {
+        "name": "certifi",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 290998
+    },
+    {
+        "name": "rich",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 878477
+    },
+    {
+        "name": "urllib3",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 388569
+    },
+    {
+        "name": "pkg_resources",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 108849
+    },
+    {
+        "name": "resolvelib",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 30534
+    },
+    {
+        "name": "platformdirs",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor",
+        "type": "dir",
+        "size": 39067
+    },
+    {
+        "name": "tags.py",
+        "parent": [],
+        "type": "file",
+        "size": 15699
+    },
+    {
+        "name": "_musllinux.py",
+        "parent": [],
+        "type": "file",
+        "size": 4378
+    },
+    {
+        "name": "version.py",
+        "parent": [],
+        "type": "file",
+        "size": 14665
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 497
+    },
+    {
+        "name": "utils.py",
+        "parent": [],
+        "type": "file",
+        "size": 4200
+    },
+    {
+        "name": "requirements.py",
+        "parent": [],
+        "type": "file",
+        "size": 4676
+    },
+    {
+        "name": "_structures.py",
+        "parent": [],
+        "type": "file",
+        "size": 1431
+    },
+    {
+        "name": "markers.py",
+        "parent": [],
+        "type": "file",
+        "size": 8487
+    },
+    {
+        "name": "__about__.py",
+        "parent": [],
+        "type": "file",
+        "size": 661
+    },
+    {
+        "name": "_manylinux.py",
+        "parent": [],
+        "type": "file",
+        "size": 11488
+    },
+    {
+        "name": "specifiers.py",
+        "parent": [],
+        "type": "file",
+        "size": 30110
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 1132
+    },
+    {
+        "name": "exceptions.py",
+        "parent": [],
+        "type": "file",
+        "size": 1081
+    },
+    {
+        "name": "fallback.py",
+        "parent": [],
+        "type": "file",
+        "size": 34557
+    },
+    {
+        "name": "ext.py",
+        "parent": [],
+        "type": "file",
+        "size": 6080
+    },
+    {
+        "name": "enums.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 1619
+    },
+    {
+        "name": "langhungarianmodel.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 101363
+    },
+    {
+        "name": "mbcssm.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 30068
+    },
+    {
+        "name": "johabfreq.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 42498
+    },
+    {
+        "name": "langthaimodel.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 102774
+    },
+    {
+        "name": "version.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 242
+    },
+    {
+        "name": "utf1632prober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 8289
+    },
+    {
+        "name": "langbulgarianmodel.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 104562
+    },
+    {
+        "name": "euckrprober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 1731
+    },
+    {
+        "name": "sjisprober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 3749
+    },
+    {
+        "name": "cp949prober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 1838
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 3705
+    },
+    {
+        "name": "euctwfreq.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 36913
+    },
+    {
+        "name": "langhebrewmodel.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 98196
+    },
+    {
+        "name": "chardistribution.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 9608
+    },
+    {
+        "name": "latin1prober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 5260
+    },
+    {
+        "name": "charsetprober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 4801
+    },
+    {
+        "name": "gb2312prober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 1737
+    },
+    {
+        "name": "mbcharsetprober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 3367
+    },
+    {
+        "name": "euctwprober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 1731
+    },
+    {
+        "name": "langrussianmodel.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 128035
+    },
+    {
+        "name": "codingstatemachine.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 3559
+    },
+    {
+        "name": "escprober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 3864
+    },
+    {
+        "name": "universaldetector.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 13288
+    },
+    {
+        "name": "utf8prober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 2709
+    },
+    {
+        "name": "gb2312freq.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 20735
+    },
+    {
+        "name": "mbcsgroupprober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 2056
+    },
+    {
+        "name": "langgreekmodel.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 98484
+    },
+    {
+        "name": "eucjpprober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 3676
+    },
+    {
+        "name": "jisfreq.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 25796
+    },
+    {
+        "name": "escsm.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 12021
+    },
+    {
+        "name": "langturkishmodel.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 95372
+    },
+    {
+        "name": "sbcharsetprober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 6199
+    },
+    {
+        "name": "big5freq.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 31274
+    },
+    {
+        "name": "euckrfreq.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 13566
+    },
+    {
+        "name": "big5prober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 1741
+    },
+    {
+        "name": "johabprober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 1730
+    },
+    {
+        "name": "hebrewprober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 13919
+    },
+    {
+        "name": "charsetgroupprober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 3817
+    },
+    {
+        "name": "sbcsgroupprober.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 4129
+    },
+    {
+        "name": "jpcntx.py",
+        "parent": [
+            "cli",
+            "metadata"
+        ],
+        "type": "file",
+        "size": 26797
+    },
+    {
+        "name": "cli",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/chardet",
+        "type": "dir",
+        "size": 2406
+    },
+    {
+        "name": "metadata",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/chardet",
+        "type": "dir",
+        "size": 13280
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "chardetect.py",
+        "parent": [],
+        "type": "file",
+        "size": 2406
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "languages.py",
+        "parent": [],
+        "type": "file",
+        "size": 13280
+    },
+    {
+        "name": "labels.py",
+        "parent": [],
+        "type": "file",
+        "size": 8979
+    },
+    {
+        "name": "mklabels.py",
+        "parent": [],
+        "type": "file",
+        "size": 1305
+    },
+    {
+        "name": "x_user_defined.py",
+        "parent": [],
+        "type": "file",
+        "size": 4307
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 10579
+    },
+    {
+        "name": "tests.py",
+        "parent": [],
+        "type": "file",
+        "size": 6563
+    },
+    {
+        "name": "modeline.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 986
+    },
+    {
+        "name": "console.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 1697
+    },
+    {
+        "name": "scanner.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 3092
+    },
+    {
+        "name": "formatter.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 2917
+    },
+    {
+        "name": "token.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 6184
+    },
+    {
+        "name": "style.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 6257
+    },
+    {
+        "name": "util.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 9110
+    },
+    {
+        "name": "sphinxext.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 4630
+    },
+    {
+        "name": "cmdline.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 23685
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 2999
+    },
+    {
+        "name": "unistring.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 63187
+    },
+    {
+        "name": "lexer.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 32005
+    },
+    {
+        "name": "regexopt.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 3072
+    },
+    {
+        "name": "plugin.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 2591
+    },
+    {
+        "name": "filter.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 1938
+    },
+    {
+        "name": "__main__.py",
+        "parent": [
+            "filters",
+            "lexers",
+            "formatters",
+            "styles"
+        ],
+        "type": "file",
+        "size": 353
+    },
+    {
+        "name": "filters",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/pygments",
+        "type": "dir",
+        "size": 40386
+    },
+    {
+        "name": "lexers",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/pygments",
+        "type": "dir",
+        "size": 134782
+    },
+    {
+        "name": "formatters",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/pygments",
+        "type": "dir",
+        "size": 135976
+    },
+    {
+        "name": "styles",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/pygments",
+        "type": "dir",
+        "size": 3419
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 40386
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 11174
+    },
+    {
+        "name": "python.py",
+        "parent": [],
+        "type": "file",
+        "size": 53376
+    },
+    {
+        "name": "_mapping.py",
+        "parent": [],
+        "type": "file",
+        "size": 70232
+    },
+    {
+        "name": "terminal.py",
+        "parent": [],
+        "type": "file",
+        "size": 4674
+    },
+    {
+        "name": "html.py",
+        "parent": [],
+        "type": "file",
+        "size": 35441
+    },
+    {
+        "name": "irc.py",
+        "parent": [],
+        "type": "file",
+        "size": 5871
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 4810
+    },
+    {
+        "name": "other.py",
+        "parent": [],
+        "type": "file",
+        "size": 5073
+    },
+    {
+        "name": "img.py",
+        "parent": [],
+        "type": "file",
+        "size": 21938
+    },
+    {
+        "name": "terminal256.py",
+        "parent": [],
+        "type": "file",
+        "size": 11753
+    },
+    {
+        "name": "rtf.py",
+        "parent": [],
+        "type": "file",
+        "size": 5014
+    },
+    {
+        "name": "svg.py",
+        "parent": [],
+        "type": "file",
+        "size": 7335
+    },
+    {
+        "name": "bbcode.py",
+        "parent": [],
+        "type": "file",
+        "size": 3314
+    },
+    {
+        "name": "pangomarkup.py",
+        "parent": [],
+        "type": "file",
+        "size": 2212
+    },
+    {
+        "name": "_mapping.py",
+        "parent": [],
+        "type": "file",
+        "size": 4104
+    },
+    {
+        "name": "groff.py",
+        "parent": [],
+        "type": "file",
+        "size": 5086
+    },
+    {
+        "name": "latex.py",
+        "parent": [],
+        "type": "file",
+        "size": 19351
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 3419
+    },
+    {
+        "name": "build.py",
+        "parent": [
+            "in_process"
+        ],
+        "type": "file",
+        "size": 3443
+    },
+    {
+        "name": "dirtools.py",
+        "parent": [
+            "in_process"
+        ],
+        "type": "file",
+        "size": 607
+    },
+    {
+        "name": "check.py",
+        "parent": [
+            "in_process"
+        ],
+        "type": "file",
+        "size": 6083
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "in_process"
+        ],
+        "type": "file",
+        "size": 130
+    },
+    {
+        "name": "envbuild.py",
+        "parent": [
+            "in_process"
+        ],
+        "type": "file",
+        "size": 6081
+    },
+    {
+        "name": "wrappers.py",
+        "parent": [
+            "in_process"
+        ],
+        "type": "file",
+        "size": 12721
+    },
+    {
+        "name": "colorlog.py",
+        "parent": [
+            "in_process"
+        ],
+        "type": "file",
+        "size": 3994
+    },
+    {
+        "name": "_compat.py",
+        "parent": [
+            "in_process"
+        ],
+        "type": "file",
+        "size": 138
+    },
+    {
+        "name": "meta.py",
+        "parent": [
+            "in_process"
+        ],
+        "type": "file",
+        "size": 2520
+    },
+    {
+        "name": "in_process",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/pep517",
+        "type": "dir",
+        "size": 11673
+    },
+    {
+        "name": "_in_process.py",
+        "parent": [],
+        "type": "file",
+        "size": 10801
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 872
+    },
+    {
+        "name": "w64-arm.exe",
+        "parent": [],
+        "type": "file",
+        "size": 168448
+    },
+    {
+        "name": "w32.exe",
+        "parent": [],
+        "type": "file",
+        "size": 91648
+    },
+    {
+        "name": "locators.py",
+        "parent": [],
+        "type": "file",
+        "size": 51991
+    },
+    {
+        "name": "metadata.py",
+        "parent": [],
+        "type": "file",
+        "size": 39801
+    },
+    {
+        "name": "version.py",
+        "parent": [],
+        "type": "file",
+        "size": 23513
+    },
+    {
+        "name": "compat.py",
+        "parent": [],
+        "type": "file",
+        "size": 41259
+    },
+    {
+        "name": "index.py",
+        "parent": [],
+        "type": "file",
+        "size": 20834
+    },
+    {
+        "name": "manifest.py",
+        "parent": [],
+        "type": "file",
+        "size": 14811
+    },
+    {
+        "name": "util.py",
+        "parent": [],
+        "type": "file",
+        "size": 66262
+    },
+    {
+        "name": "database.py",
+        "parent": [],
+        "type": "file",
+        "size": 51697
+    },
+    {
+        "name": "t32.exe",
+        "parent": [],
+        "type": "file",
+        "size": 97792
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 581
+    },
+    {
+        "name": "w64.exe",
+        "parent": [],
+        "type": "file",
+        "size": 101888
+    },
+    {
+        "name": "markers.py",
+        "parent": [],
+        "type": "file",
+        "size": 5058
+    },
+    {
+        "name": "resources.py",
+        "parent": [],
+        "type": "file",
+        "size": 10820
+    },
+    {
+        "name": "t64-arm.exe",
+        "parent": [],
+        "type": "file",
+        "size": 182784
+    },
+    {
+        "name": "scripts.py",
+        "parent": [],
+        "type": "file",
+        "size": 18102
+    },
+    {
+        "name": "t64.exe",
+        "parent": [],
+        "type": "file",
+        "size": 108032
+    },
+    {
+        "name": "wheel.py",
+        "parent": [],
+        "type": "file",
+        "size": 43898
+    },
+    {
+        "name": "results.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 25341
+    },
+    {
+        "name": "unicode.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 10787
+    },
+    {
+        "name": "util.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 6805
+    },
+    {
+        "name": "actions.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 6426
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 9171
+    },
+    {
+        "name": "core.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 213344
+    },
+    {
+        "name": "common.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 12936
+    },
+    {
+        "name": "exceptions.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 9023
+    },
+    {
+        "name": "testing.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 13402
+    },
+    {
+        "name": "helpers.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 39129
+    },
+    {
+        "name": "diagram",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/pyparsing",
+        "type": "dir",
+        "size": 23685
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 23685
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 981
+    },
+    {
+        "name": "distro.py",
+        "parent": [],
+        "type": "file",
+        "size": 48841
+    },
+    {
+        "name": "__main__.py",
+        "parent": [],
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 239
+    },
+    {
+        "name": "win32.py",
+        "parent": [],
+        "type": "file",
+        "size": 5404
+    },
+    {
+        "name": "ansitowin32.py",
+        "parent": [],
+        "type": "file",
+        "size": 10830
+    },
+    {
+        "name": "ansi.py",
+        "parent": [],
+        "type": "file",
+        "size": 2522
+    },
+    {
+        "name": "winterm.py",
+        "parent": [],
+        "type": "file",
+        "size": 6438
+    },
+    {
+        "name": "initialise.py",
+        "parent": [],
+        "type": "file",
+        "size": 1915
+    },
+    {
+        "name": "serialize.py",
+        "parent": [
+            "caches"
+        ],
+        "type": "file",
+        "size": 7105
+    },
+    {
+        "name": "wrapper.py",
+        "parent": [
+            "caches"
+        ],
+        "type": "file",
+        "size": 774
+    },
+    {
+        "name": "controller.py",
+        "parent": [
+            "caches"
+        ],
+        "type": "file",
+        "size": 16416
+    },
+    {
+        "name": "compat.py",
+        "parent": [
+            "caches"
+        ],
+        "type": "file",
+        "size": 778
+    },
+    {
+        "name": "filewrapper.py",
+        "parent": [
+            "caches"
+        ],
+        "type": "file",
+        "size": 3946
+    },
+    {
+        "name": "heuristics.py",
+        "parent": [
+            "caches"
+        ],
+        "type": "file",
+        "size": 4154
+    },
+    {
+        "name": "adapter.py",
+        "parent": [
+            "caches"
+        ],
+        "type": "file",
+        "size": 5033
+    },
+    {
+        "name": "cache.py",
+        "parent": [
+            "caches"
+        ],
+        "type": "file",
+        "size": 1535
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "caches"
+        ],
+        "type": "file",
+        "size": 465
+    },
+    {
+        "name": "_cmd.py",
+        "parent": [
+            "caches"
+        ],
+        "type": "file",
+        "size": 1379
+    },
+    {
+        "name": "caches",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/cachecontrol",
+        "type": "dir",
+        "size": 6546
+    },
+    {
+        "name": "file_cache.py",
+        "parent": [],
+        "type": "file",
+        "size": 5271
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 242
+    },
+    {
+        "name": "redis_cache.py",
+        "parent": [],
+        "type": "file",
+        "size": 1033
+    },
+    {
+        "name": "intranges.py",
+        "parent": [],
+        "type": "file",
+        "size": 1881
+    },
+    {
+        "name": "package_data.py",
+        "parent": [],
+        "type": "file",
+        "size": 21
+    },
+    {
+        "name": "compat.py",
+        "parent": [],
+        "type": "file",
+        "size": 321
+    },
+    {
+        "name": "idnadata.py",
+        "parent": [],
+        "type": "file",
+        "size": 44375
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 849
+    },
+    {
+        "name": "core.py",
+        "parent": [],
+        "type": "file",
+        "size": 12950
+    },
+    {
+        "name": "codec.py",
+        "parent": [],
+        "type": "file",
+        "size": 3374
+    },
+    {
+        "name": "uts46data.py",
+        "parent": [],
+        "type": "file",
+        "size": 206539
+    },
+    {
+        "name": "before.py",
+        "parent": [],
+        "type": "file",
+        "size": 1376
+    },
+    {
+        "name": "before_sleep.py",
+        "parent": [],
+        "type": "file",
+        "size": 1908
+    },
+    {
+        "name": "_asyncio.py",
+        "parent": [],
+        "type": "file",
+        "size": 3314
+    },
+    {
+        "name": "stop.py",
+        "parent": [],
+        "type": "file",
+        "size": 2790
+    },
+    {
+        "name": "wait.py",
+        "parent": [],
+        "type": "file",
+        "size": 8011
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 18364
+    },
+    {
+        "name": "nap.py",
+        "parent": [],
+        "type": "file",
+        "size": 1383
+    },
+    {
+        "name": "after.py",
+        "parent": [],
+        "type": "file",
+        "size": 1496
+    },
+    {
+        "name": "retry.py",
+        "parent": [],
+        "type": "file",
+        "size": 7550
+    },
+    {
+        "name": "tornadoweb.py",
+        "parent": [],
+        "type": "file",
+        "size": 2145
+    },
+    {
+        "name": "_utils.py",
+        "parent": [],
+        "type": "file",
+        "size": 1944
+    },
+    {
+        "name": "cookies.py",
+        "parent": [],
+        "type": "file",
+        "size": 18560
+    },
+    {
+        "name": "auth.py",
+        "parent": [],
+        "type": "file",
+        "size": 10187
+    },
+    {
+        "name": "sessions.py",
+        "parent": [],
+        "type": "file",
+        "size": 30180
+    },
+    {
+        "name": "hooks.py",
+        "parent": [],
+        "type": "file",
+        "size": 733
+    },
+    {
+        "name": "compat.py",
+        "parent": [],
+        "type": "file",
+        "size": 1286
+    },
+    {
+        "name": "models.py",
+        "parent": [],
+        "type": "file",
+        "size": 35287
+    },
+    {
+        "name": "certs.py",
+        "parent": [],
+        "type": "file",
+        "size": 575
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 5178
+    },
+    {
+        "name": "status_codes.py",
+        "parent": [],
+        "type": "file",
+        "size": 4235
+    },
+    {
+        "name": "packages.py",
+        "parent": [],
+        "type": "file",
+        "size": 695
+    },
+    {
+        "name": "__version__.py",
+        "parent": [],
+        "type": "file",
+        "size": 440
+    },
+    {
+        "name": "api.py",
+        "parent": [],
+        "type": "file",
+        "size": 6377
+    },
+    {
+        "name": "_internal_utils.py",
+        "parent": [],
+        "type": "file",
+        "size": 1397
+    },
+    {
+        "name": "utils.py",
+        "parent": [],
+        "type": "file",
+        "size": 33240
+    },
+    {
+        "name": "exceptions.py",
+        "parent": [],
+        "type": "file",
+        "size": 3823
+    },
+    {
+        "name": "structures.py",
+        "parent": [],
+        "type": "file",
+        "size": 2912
+    },
+    {
+        "name": "help.py",
+        "parent": [],
+        "type": "file",
+        "size": 3879
+    },
+    {
+        "name": "adapters.py",
+        "parent": [],
+        "type": "file",
+        "size": 21443
+    },
+    {
+        "name": "_types.py",
+        "parent": [],
+        "type": "file",
+        "size": 254
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 396
+    },
+    {
+        "name": "_parser.py",
+        "parent": [],
+        "type": "file",
+        "size": 22633
+    },
+    {
+        "name": "_re.py",
+        "parent": [],
+        "type": "file",
+        "size": 2943
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 94
+    },
+    {
+        "name": "core.py",
+        "parent": [],
+        "type": "file",
+        "size": 4279
+    },
+    {
+        "name": "cacert.pem",
+        "parent": [],
+        "type": "file",
+        "size": 286370
+    },
+    {
+        "name": "__main__.py",
+        "parent": [],
+        "type": "file",
+        "size": 255
+    },
+    {
+        "name": "themes.py",
+        "parent": [],
+        "type": "file",
+        "size": 102
+    },
+    {
+        "name": "screen.py",
+        "parent": [],
+        "type": "file",
+        "size": 1591
+    },
+    {
+        "name": "logging.py",
+        "parent": [],
+        "type": "file",
+        "size": 11471
+    },
+    {
+        "name": "measure.py",
+        "parent": [],
+        "type": "file",
+        "size": 5305
+    },
+    {
+        "name": "tree.py",
+        "parent": [],
+        "type": "file",
+        "size": 9169
+    },
+    {
+        "name": "console.py",
+        "parent": [],
+        "type": "file",
+        "size": 95885
+    },
+    {
+        "name": "live_render.py",
+        "parent": [],
+        "type": "file",
+        "size": 3667
+    },
+    {
+        "name": "_emoji_codes.py",
+        "parent": [],
+        "type": "file",
+        "size": 140235
+    },
+    {
+        "name": "box.py",
+        "parent": [],
+        "type": "file",
+        "size": 9864
+    },
+    {
+        "name": "color.py",
+        "parent": [],
+        "type": "file",
+        "size": 17957
+    },
+    {
+        "name": "_timer.py",
+        "parent": [],
+        "type": "file",
+        "size": 417
+    },
+    {
+        "name": "align.py",
+        "parent": [],
+        "type": "file",
+        "size": 10368
+    },
+    {
+        "name": "theme.py",
+        "parent": [],
+        "type": "file",
+        "size": 3627
+    },
+    {
+        "name": "style.py",
+        "parent": [],
+        "type": "file",
+        "size": 26240
+    },
+    {
+        "name": "default_styles.py",
+        "parent": [],
+        "type": "file",
+        "size": 7954
+    },
+    {
+        "name": "_wrap.py",
+        "parent": [],
+        "type": "file",
+        "size": 1840
+    },
+    {
+        "name": "_log_render.py",
+        "parent": [],
+        "type": "file",
+        "size": 3225
+    },
+    {
+        "name": "emoji.py",
+        "parent": [],
+        "type": "file",
+        "size": 2501
+    },
+    {
+        "name": "layout.py",
+        "parent": [],
+        "type": "file",
+        "size": 14074
+    },
+    {
+        "name": "containers.py",
+        "parent": [],
+        "type": "file",
+        "size": 5497
+    },
+    {
+        "name": "_emoji_replace.py",
+        "parent": [],
+        "type": "file",
+        "size": 1064
+    },
+    {
+        "name": "traceback.py",
+        "parent": [],
+        "type": "file",
+        "size": 26060
+    },
+    {
+        "name": "region.py",
+        "parent": [],
+        "type": "file",
+        "size": 166
+    },
+    {
+        "name": "protocol.py",
+        "parent": [],
+        "type": "file",
+        "size": 1391
+    },
+    {
+        "name": "_loop.py",
+        "parent": [],
+        "type": "file",
+        "size": 1236
+    },
+    {
+        "name": "control.py",
+        "parent": [],
+        "type": "file",
+        "size": 6630
+    },
+    {
+        "name": "filesize.py",
+        "parent": [],
+        "type": "file",
+        "size": 2507
+    },
+    {
+        "name": "_palettes.py",
+        "parent": [],
+        "type": "file",
+        "size": 7063
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 5944
+    },
+    {
+        "name": "_pick.py",
+        "parent": [],
+        "type": "file",
+        "size": 423
+    },
+    {
+        "name": "file_proxy.py",
+        "parent": [],
+        "type": "file",
+        "size": 1616
+    },
+    {
+        "name": "palette.py",
+        "parent": [],
+        "type": "file",
+        "size": 3396
+    },
+    {
+        "name": "markup.py",
+        "parent": [],
+        "type": "file",
+        "size": 8198
+    },
+    {
+        "name": "_ratio.py",
+        "parent": [],
+        "type": "file",
+        "size": 5472
+    },
+    {
+        "name": "repr.py",
+        "parent": [],
+        "type": "file",
+        "size": 4449
+    },
+    {
+        "name": "constrain.py",
+        "parent": [],
+        "type": "file",
+        "size": 1288
+    },
+    {
+        "name": "pretty.py",
+        "parent": [],
+        "type": "file",
+        "size": 36576
+    },
+    {
+        "name": "diagnose.py",
+        "parent": [],
+        "type": "file",
+        "size": 972
+    },
+    {
+        "name": "columns.py",
+        "parent": [],
+        "type": "file",
+        "size": 7131
+    },
+    {
+        "name": "rule.py",
+        "parent": [],
+        "type": "file",
+        "size": 4773
+    },
+    {
+        "name": "_inspect.py",
+        "parent": [],
+        "type": "file",
+        "size": 9695
+    },
+    {
+        "name": "pager.py",
+        "parent": [],
+        "type": "file",
+        "size": 828
+    },
+    {
+        "name": "text.py",
+        "parent": [],
+        "type": "file",
+        "size": 44666
+    },
+    {
+        "name": "highlighter.py",
+        "parent": [],
+        "type": "file",
+        "size": 9585
+    },
+    {
+        "name": "_spinners.py",
+        "parent": [],
+        "type": "file",
+        "size": 19919
+    },
+    {
+        "name": "terminal_theme.py",
+        "parent": [],
+        "type": "file",
+        "size": 3370
+    },
+    {
+        "name": "bar.py",
+        "parent": [],
+        "type": "file",
+        "size": 3264
+    },
+    {
+        "name": "live.py",
+        "parent": [],
+        "type": "file",
+        "size": 14172
+    },
+    {
+        "name": "syntax.py",
+        "parent": [],
+        "type": "file",
+        "size": 34697
+    },
+    {
+        "name": "table.py",
+        "parent": [],
+        "type": "file",
+        "size": 39515
+    },
+    {
+        "name": "_export_format.py",
+        "parent": [],
+        "type": "file",
+        "size": 2114
+    },
+    {
+        "name": "progress_bar.py",
+        "parent": [],
+        "type": "file",
+        "size": 8161
+    },
+    {
+        "name": "errors.py",
+        "parent": [],
+        "type": "file",
+        "size": 642
+    },
+    {
+        "name": "prompt.py",
+        "parent": [],
+        "type": "file",
+        "size": 11303
+    },
+    {
+        "name": "segment.py",
+        "parent": [],
+        "type": "file",
+        "size": 24224
+    },
+    {
+        "name": "ansi.py",
+        "parent": [],
+        "type": "file",
+        "size": 6820
+    },
+    {
+        "name": "progress.py",
+        "parent": [],
+        "type": "file",
+        "size": 59746
+    },
+    {
+        "name": "_stack.py",
+        "parent": [],
+        "type": "file",
+        "size": 351
+    },
+    {
+        "name": "_windows.py",
+        "parent": [],
+        "type": "file",
+        "size": 1926
+    },
+    {
+        "name": "_cell_widths.py",
+        "parent": [],
+        "type": "file",
+        "size": 10096
+    },
+    {
+        "name": "cells.py",
+        "parent": [],
+        "type": "file",
+        "size": 4503
+    },
+    {
+        "name": "_win32_console.py",
+        "parent": [],
+        "type": "file",
+        "size": 22820
+    },
+    {
+        "name": "panel.py",
+        "parent": [],
+        "type": "file",
+        "size": 8744
+    },
+    {
+        "name": "styled.py",
+        "parent": [],
+        "type": "file",
+        "size": 1258
+    },
+    {
+        "name": "spinner.py",
+        "parent": [],
+        "type": "file",
+        "size": 4374
+    },
+    {
+        "name": "_windows_renderer.py",
+        "parent": [],
+        "type": "file",
+        "size": 2783
+    },
+    {
+        "name": "json.py",
+        "parent": [],
+        "type": "file",
+        "size": 5051
+    },
+    {
+        "name": "padding.py",
+        "parent": [],
+        "type": "file",
+        "size": 4970
+    },
+    {
+        "name": "__main__.py",
+        "parent": [],
+        "type": "file",
+        "size": 8808
+    },
+    {
+        "name": "scope.py",
+        "parent": [],
+        "type": "file",
+        "size": 2842
+    },
+    {
+        "name": "_extension.py",
+        "parent": [],
+        "type": "file",
+        "size": 265
+    },
+    {
+        "name": "status.py",
+        "parent": [],
+        "type": "file",
+        "size": 4425
+    },
+    {
+        "name": "abc.py",
+        "parent": [],
+        "type": "file",
+        "size": 890
+    },
+    {
+        "name": "jupyter.py",
+        "parent": [],
+        "type": "file",
+        "size": 3252
+    },
+    {
+        "name": "color_triplet.py",
+        "parent": [],
+        "type": "file",
+        "size": 1054
+    },
+    {
+        "name": "filepost.py",
+        "parent": [
+            "util",
+            "contrib",
+            "packages"
+        ],
+        "type": "file",
+        "size": 2440
+    },
+    {
+        "name": "fields.py",
+        "parent": [
+            "util",
+            "contrib",
+            "packages"
+        ],
+        "type": "file",
+        "size": 8579
+    },
+    {
+        "name": "_version.py",
+        "parent": [
+            "util",
+            "contrib",
+            "packages"
+        ],
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "request.py",
+        "parent": [
+            "util",
+            "contrib",
+            "packages"
+        ],
+        "type": "file",
+        "size": 5985
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "util",
+            "contrib",
+            "packages"
+        ],
+        "type": "file",
+        "size": 3333
+    },
+    {
+        "name": "poolmanager.py",
+        "parent": [
+            "util",
+            "contrib",
+            "packages"
+        ],
+        "type": "file",
+        "size": 19786
+    },
+    {
+        "name": "response.py",
+        "parent": [
+            "util",
+            "contrib",
+            "packages"
+        ],
+        "type": "file",
+        "size": 30109
+    },
+    {
+        "name": "connection.py",
+        "parent": [
+            "util",
+            "contrib",
+            "packages"
+        ],
+        "type": "file",
+        "size": 20070
+    },
+    {
+        "name": "_collections.py",
+        "parent": [
+            "util",
+            "contrib",
+            "packages"
+        ],
+        "type": "file",
+        "size": 10811
+    },
+    {
+        "name": "exceptions.py",
+        "parent": [
+            "util",
+            "contrib",
+            "packages"
+        ],
+        "type": "file",
+        "size": 8217
+    },
+    {
+        "name": "connectionpool.py",
+        "parent": [
+            "util",
+            "contrib",
+            "packages"
+        ],
+        "type": "file",
+        "size": 39093
+    },
+    {
+        "name": "util",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/urllib3",
+        "type": "dir",
+        "size": 97190
+    },
+    {
+        "name": "contrib",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/urllib3",
+        "type": "dir",
+        "size": 106810
+    },
+    {
+        "name": "packages",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/urllib3",
+        "type": "dir",
+        "size": 36082
+    },
+    {
+        "name": "queue.py",
+        "parent": [],
+        "type": "file",
+        "size": 498
+    },
+    {
+        "name": "ssltransport.py",
+        "parent": [],
+        "type": "file",
+        "size": 6895
+    },
+    {
+        "name": "proxy.py",
+        "parent": [],
+        "type": "file",
+        "size": 1605
+    },
+    {
+        "name": "wait.py",
+        "parent": [],
+        "type": "file",
+        "size": 5403
+    },
+    {
+        "name": "request.py",
+        "parent": [],
+        "type": "file",
+        "size": 3997
+    },
+    {
+        "name": "timeout.py",
+        "parent": [],
+        "type": "file",
+        "size": 10003
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 1155
+    },
+    {
+        "name": "response.py",
+        "parent": [],
+        "type": "file",
+        "size": 3510
+    },
+    {
+        "name": "ssl_.py",
+        "parent": [],
+        "type": "file",
+        "size": 17177
+    },
+    {
+        "name": "retry.py",
+        "parent": [],
+        "type": "file",
+        "size": 22001
+    },
+    {
+        "name": "url.py",
+        "parent": [],
+        "type": "file",
+        "size": 14287
+    },
+    {
+        "name": "connection.py",
+        "parent": [],
+        "type": "file",
+        "size": 4901
+    },
+    {
+        "name": "ssl_match_hostname.py",
+        "parent": [],
+        "type": "file",
+        "size": 5758
+    },
+    {
+        "name": "securetransport.py",
+        "parent": [
+            "_securetransport"
+        ],
+        "type": "file",
+        "size": 34448
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "_securetransport"
+        ],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "socks.py",
+        "parent": [
+            "_securetransport"
+        ],
+        "type": "file",
+        "size": 7097
+    },
+    {
+        "name": "_appengine_environ.py",
+        "parent": [
+            "_securetransport"
+        ],
+        "type": "file",
+        "size": 957
+    },
+    {
+        "name": "pyopenssl.py",
+        "parent": [
+            "_securetransport"
+        ],
+        "type": "file",
+        "size": 17182
+    },
+    {
+        "name": "appengine.py",
+        "parent": [
+            "_securetransport"
+        ],
+        "type": "file",
+        "size": 11034
+    },
+    {
+        "name": "ntlmpool.py",
+        "parent": [
+            "_securetransport"
+        ],
+        "type": "file",
+        "size": 4538
+    },
+    {
+        "name": "_securetransport",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/contrib",
+        "type": "dir",
+        "size": 31554
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "low_level.py",
+        "parent": [],
+        "type": "file",
+        "size": 13922
+    },
+    {
+        "name": "bindings.py",
+        "parent": [],
+        "type": "file",
+        "size": 17632
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "backports"
+        ],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "six.py",
+        "parent": [
+            "backports"
+        ],
+        "type": "file",
+        "size": 34665
+    },
+    {
+        "name": "backports",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/urllib3/packages",
+        "type": "dir",
+        "size": 1417
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "makefile.py",
+        "parent": [],
+        "type": "file",
+        "size": 1417
+    },
+    {
+        "name": "py31compat.py",
+        "parent": [],
+        "type": "file",
+        "size": 562
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 108287
+    },
+    {
+        "name": "resolvers.py",
+        "parent": [
+            "compat"
+        ],
+        "type": "file",
+        "size": 17592
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "compat"
+        ],
+        "type": "file",
+        "size": 537
+    },
+    {
+        "name": "providers.py",
+        "parent": [
+            "compat"
+        ],
+        "type": "file",
+        "size": 5872
+    },
+    {
+        "name": "structs.py",
+        "parent": [
+            "compat"
+        ],
+        "type": "file",
+        "size": 4794
+    },
+    {
+        "name": "reporters.py",
+        "parent": [
+            "compat"
+        ],
+        "type": "file",
+        "size": 1583
+    },
+    {
+        "name": "compat",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pip/_vendor/resolvelib",
+        "type": "dir",
+        "size": 156
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "collections_abc.py",
+        "parent": [],
+        "type": "file",
+        "size": 156
+    },
+    {
+        "name": "macos.py",
+        "parent": [],
+        "type": "file",
+        "size": 2655
+    },
+    {
+        "name": "unix.py",
+        "parent": [],
+        "type": "file",
+        "size": 6910
+    },
+    {
+        "name": "version.py",
+        "parent": [],
+        "type": "file",
+        "size": 78
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 12831
+    },
+    {
+        "name": "api.py",
+        "parent": [],
+        "type": "file",
+        "size": 4910
+    },
+    {
+        "name": "android.py",
+        "parent": [],
+        "type": "file",
+        "size": 4068
+    },
+    {
+        "name": "windows.py",
+        "parent": [],
+        "type": "file",
+        "size": 6439
+    },
+    {
+        "name": "__main__.py",
+        "parent": [],
+        "type": "file",
+        "size": 1176
+    },
+    {
+        "name": "RECORD",
+        "parent": [],
+        "type": "file",
+        "size": 71259
+    },
+    {
+        "name": "WHEEL",
+        "parent": [],
+        "type": "file",
+        "size": 92
+    },
+    {
+        "name": "entry_points.txt",
+        "parent": [],
+        "type": "file",
+        "size": 125
+    },
+    {
+        "name": "top_level.txt",
+        "parent": [],
+        "type": "file",
+        "size": 4
+    },
+    {
+        "name": "LICENSE.txt",
+        "parent": [],
+        "type": "file",
+        "size": 1093
+    },
+    {
+        "name": "INSTALLER",
+        "parent": [],
+        "type": "file",
+        "size": 4
+    },
+    {
+        "name": "METADATA",
+        "parent": [],
+        "type": "file",
+        "size": 4072
+    },
+    {
+        "name": "RECORD",
+        "parent": [],
+        "type": "file",
+        "size": 2815
+    },
+    {
+        "name": "WHEEL",
+        "parent": [],
+        "type": "file",
+        "size": 92
+    },
+    {
+        "name": "entry_points.txt",
+        "parent": [],
+        "type": "file",
+        "size": 107
+    },
+    {
+        "name": "top_level.txt",
+        "parent": [],
+        "type": "file",
+        "size": 6
+    },
+    {
+        "name": "LICENSE.txt",
+        "parent": [],
+        "type": "file",
+        "size": 1107
+    },
+    {
+        "name": "INSTALLER",
+        "parent": [],
+        "type": "file",
+        "size": 4
+    },
+    {
+        "name": "METADATA",
+        "parent": [],
+        "type": "file",
+        "size": 2110
+    },
+    {
+        "name": "_path.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 749
+    },
+    {
+        "name": "cli-arm64.exe",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 137216
+    },
+    {
+        "name": "logging.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 1210
+    },
+    {
+        "name": "windows_support.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 718
+    },
+    {
+        "name": "_deprecation_warning.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 218
+    },
+    {
+        "name": "package_index.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 40329
+    },
+    {
+        "name": "archive_util.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 7346
+    },
+    {
+        "name": "_imp.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 2392
+    },
+    {
+        "name": "version.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 144
+    },
+    {
+        "name": "discovery.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 20799
+    },
+    {
+        "name": "cli-64.exe",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 74752
+    },
+    {
+        "name": "_reqs.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 501
+    },
+    {
+        "name": "gui-64.exe",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 75264
+    },
+    {
+        "name": "depends.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 5499
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 8429
+    },
+    {
+        "name": "installer.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 3824
+    },
+    {
+        "name": "glob.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 4873
+    },
+    {
+        "name": "sandbox.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 14348
+    },
+    {
+        "name": "py34compat.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 245
+    },
+    {
+        "name": "script.tmpl",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 138
+    },
+    {
+        "name": "launch.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 812
+    },
+    {
+        "name": "extension.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 5591
+    },
+    {
+        "name": "unicode_utils.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 941
+    },
+    {
+        "name": "_itertools.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 675
+    },
+    {
+        "name": "monkey.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 4857
+    },
+    {
+        "name": "build_meta.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 19539
+    },
+    {
+        "name": "cli.exe",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 65536
+    },
+    {
+        "name": "errors.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 2464
+    },
+    {
+        "name": "dep_util.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 949
+    },
+    {
+        "name": "msvc.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 47724
+    },
+    {
+        "name": "_importlib.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 1311
+    },
+    {
+        "name": "_entry_points.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 1972
+    },
+    {
+        "name": "cli-32.exe",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 65536
+    },
+    {
+        "name": "gui-32.exe",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 65536
+    },
+    {
+        "name": "gui.exe",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 65536
+    },
+    {
+        "name": "dist.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 45578
+    },
+    {
+        "name": "wheel.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 8376
+    },
+    {
+        "name": "gui-arm64.exe",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 137728
+    },
+    {
+        "name": "namespaces.py",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 3093
+    },
+    {
+        "name": "script (dev).tmpl",
+        "parent": [
+            "_vendor",
+            "config",
+            "command",
+            "extern",
+            "_distutils"
+        ],
+        "type": "file",
+        "size": 218
+    },
+    {
+        "name": "_vendor",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools",
+        "type": "dir",
+        "size": 839953
+    },
+    {
+        "name": "config",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools",
+        "type": "dir",
+        "size": 369045
+    },
+    {
+        "name": "command",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools",
+        "type": "dir",
+        "size": 267898
+    },
+    {
+        "name": "extern",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools",
+        "type": "dir",
+        "size": 2512
+    },
+    {
+        "name": "_distutils",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools",
+        "type": "dir",
+        "size": 604933
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "packaging",
+            "jaraco",
+            "pyparsing",
+            "importlib_metadata",
+            "more_itertools",
+            "importlib_resources",
+            "tomli"
+        ],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "zipp.py",
+        "parent": [
+            "packaging",
+            "jaraco",
+            "pyparsing",
+            "importlib_metadata",
+            "more_itertools",
+            "importlib_resources",
+            "tomli"
+        ],
+        "type": "file",
+        "size": 8425
+    },
+    {
+        "name": "ordered_set.py",
+        "parent": [
+            "packaging",
+            "jaraco",
+            "pyparsing",
+            "importlib_metadata",
+            "more_itertools",
+            "importlib_resources",
+            "tomli"
+        ],
+        "type": "file",
+        "size": 15130
+    },
+    {
+        "name": "typing_extensions.py",
+        "parent": [
+            "packaging",
+            "jaraco",
+            "pyparsing",
+            "importlib_metadata",
+            "more_itertools",
+            "importlib_resources",
+            "tomli"
+        ],
+        "type": "file",
+        "size": 87149
+    },
+    {
+        "name": "packaging",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor",
+        "type": "dir",
+        "size": 96322
+    },
+    {
+        "name": "jaraco",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor",
+        "type": "dir",
+        "size": 34449
+    },
+    {
+        "name": "pyparsing",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor",
+        "type": "dir",
+        "size": 369986
+    },
+    {
+        "name": "importlib_metadata",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor",
+        "type": "dir",
+        "size": 42846
+    },
+    {
+        "name": "more_itertools",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor",
+        "type": "dir",
+        "size": 134297
+    },
+    {
+        "name": "importlib_resources",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor",
+        "type": "dir",
+        "size": 25123
+    },
+    {
+        "name": "tomli",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor",
+        "type": "dir",
+        "size": 26226
+    },
+    {
+        "name": "tags.py",
+        "parent": [],
+        "type": "file",
+        "size": 15699
+    },
+    {
+        "name": "_musllinux.py",
+        "parent": [],
+        "type": "file",
+        "size": 4378
+    },
+    {
+        "name": "version.py",
+        "parent": [],
+        "type": "file",
+        "size": 14665
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 497
+    },
+    {
+        "name": "utils.py",
+        "parent": [],
+        "type": "file",
+        "size": 4200
+    },
+    {
+        "name": "requirements.py",
+        "parent": [],
+        "type": "file",
+        "size": 4700
+    },
+    {
+        "name": "_structures.py",
+        "parent": [],
+        "type": "file",
+        "size": 1431
+    },
+    {
+        "name": "markers.py",
+        "parent": [],
+        "type": "file",
+        "size": 8493
+    },
+    {
+        "name": "__about__.py",
+        "parent": [],
+        "type": "file",
+        "size": 661
+    },
+    {
+        "name": "_manylinux.py",
+        "parent": [],
+        "type": "file",
+        "size": 11488
+    },
+    {
+        "name": "specifiers.py",
+        "parent": [],
+        "type": "file",
+        "size": 30110
+    },
+    {
+        "name": "functools.py",
+        "parent": [
+            "text"
+        ],
+        "type": "file",
+        "size": 13512
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "text"
+        ],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "context.py",
+        "parent": [
+            "text"
+        ],
+        "type": "file",
+        "size": 5420
+    },
+    {
+        "name": "text",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor/jaraco",
+        "type": "dir",
+        "size": 15517
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 15517
+    },
+    {
+        "name": "results.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 25341
+    },
+    {
+        "name": "unicode.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 10787
+    },
+    {
+        "name": "util.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 6805
+    },
+    {
+        "name": "actions.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 6426
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 9159
+    },
+    {
+        "name": "core.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 213310
+    },
+    {
+        "name": "common.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 12936
+    },
+    {
+        "name": "exceptions.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 9023
+    },
+    {
+        "name": "testing.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 13402
+    },
+    {
+        "name": "helpers.py",
+        "parent": [
+            "diagram"
+        ],
+        "type": "file",
+        "size": 39129
+    },
+    {
+        "name": "diagram",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_vendor/pyparsing",
+        "type": "dir",
+        "size": 23668
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 23668
+    },
+    {
+        "name": "_meta.py",
+        "parent": [],
+        "type": "file",
+        "size": 1154
+    },
+    {
+        "name": "_text.py",
+        "parent": [],
+        "type": "file",
+        "size": 2166
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 30130
+    },
+    {
+        "name": "_functools.py",
+        "parent": [],
+        "type": "file",
+        "size": 2895
+    },
+    {
+        "name": "_collections.py",
+        "parent": [],
+        "type": "file",
+        "size": 743
+    },
+    {
+        "name": "_itertools.py",
+        "parent": [],
+        "type": "file",
+        "size": 2068
+    },
+    {
+        "name": "_adapters.py",
+        "parent": [],
+        "type": "file",
+        "size": 1862
+    },
+    {
+        "name": "_compat.py",
+        "parent": [],
+        "type": "file",
+        "size": 1828
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 82
+    },
+    {
+        "name": "more.py",
+        "parent": [],
+        "type": "file",
+        "size": 117959
+    },
+    {
+        "name": "recipes.py",
+        "parent": [],
+        "type": "file",
+        "size": 16256
+    },
+    {
+        "name": "readers.py",
+        "parent": [],
+        "type": "file",
+        "size": 3566
+    },
+    {
+        "name": "_common.py",
+        "parent": [],
+        "type": "file",
+        "size": 2741
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 506
+    },
+    {
+        "name": "_itertools.py",
+        "parent": [],
+        "type": "file",
+        "size": 884
+    },
+    {
+        "name": "_adapters.py",
+        "parent": [],
+        "type": "file",
+        "size": 4504
+    },
+    {
+        "name": "_compat.py",
+        "parent": [],
+        "type": "file",
+        "size": 2706
+    },
+    {
+        "name": "_legacy.py",
+        "parent": [],
+        "type": "file",
+        "size": 3494
+    },
+    {
+        "name": "simple.py",
+        "parent": [],
+        "type": "file",
+        "size": 2836
+    },
+    {
+        "name": "abc.py",
+        "parent": [],
+        "type": "file",
+        "size": 3886
+    },
+    {
+        "name": "_types.py",
+        "parent": [],
+        "type": "file",
+        "size": 254
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 396
+    },
+    {
+        "name": "_parser.py",
+        "parent": [],
+        "type": "file",
+        "size": 22633
+    },
+    {
+        "name": "_re.py",
+        "parent": [],
+        "type": "file",
+        "size": 2943
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "_validate_pyproject"
+        ],
+        "type": "file",
+        "size": 1121
+    },
+    {
+        "name": "setupcfg.py",
+        "parent": [
+            "_validate_pyproject"
+        ],
+        "type": "file",
+        "size": 25198
+    },
+    {
+        "name": "_apply_pyprojecttoml.py",
+        "parent": [
+            "_validate_pyproject"
+        ],
+        "type": "file",
+        "size": 13398
+    },
+    {
+        "name": "pyprojecttoml.py",
+        "parent": [
+            "_validate_pyproject"
+        ],
+        "type": "file",
+        "size": 19304
+    },
+    {
+        "name": "expand.py",
+        "parent": [
+            "_validate_pyproject"
+        ],
+        "type": "file",
+        "size": 16319
+    },
+    {
+        "name": "_validate_pyproject",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/config",
+        "type": "dir",
+        "size": 293705
+    },
+    {
+        "name": "fastjsonschema_exceptions.py",
+        "parent": [],
+        "type": "file",
+        "size": 1612
+    },
+    {
+        "name": "extra_validations.py",
+        "parent": [],
+        "type": "file",
+        "size": 1153
+    },
+    {
+        "name": "error_reporting.py",
+        "parent": [],
+        "type": "file",
+        "size": 11266
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 1038
+    },
+    {
+        "name": "fastjsonschema_validations.py",
+        "parent": [],
+        "type": "file",
+        "size": 269900
+    },
+    {
+        "name": "formats.py",
+        "parent": [],
+        "type": "file",
+        "size": 8736
+    },
+    {
+        "name": "build.py",
+        "parent": [],
+        "type": "file",
+        "size": 6589
+    },
+    {
+        "name": "bdist_egg.py",
+        "parent": [],
+        "type": "file",
+        "size": 16623
+    },
+    {
+        "name": "alias.py",
+        "parent": [],
+        "type": "file",
+        "size": 2381
+    },
+    {
+        "name": "py36compat.py",
+        "parent": [],
+        "type": "file",
+        "size": 4946
+    },
+    {
+        "name": "build_ext.py",
+        "parent": [],
+        "type": "file",
+        "size": 15821
+    },
+    {
+        "name": "easy_install.py",
+        "parent": [],
+        "type": "file",
+        "size": 85662
+    },
+    {
+        "name": "editable_wheel.py",
+        "parent": [],
+        "type": "file",
+        "size": 31188
+    },
+    {
+        "name": "launcher manifest.xml",
+        "parent": [],
+        "type": "file",
+        "size": 628
+    },
+    {
+        "name": "install_scripts.py",
+        "parent": [],
+        "type": "file",
+        "size": 2612
+    },
+    {
+        "name": "upload.py",
+        "parent": [],
+        "type": "file",
+        "size": 462
+    },
+    {
+        "name": "register.py",
+        "parent": [],
+        "type": "file",
+        "size": 468
+    },
+    {
+        "name": "dist_info.py",
+        "parent": [],
+        "type": "file",
+        "size": 4800
+    },
+    {
+        "name": "install_lib.py",
+        "parent": [],
+        "type": "file",
+        "size": 3875
+    },
+    {
+        "name": "upload_docs.py",
+        "parent": [],
+        "type": "file",
+        "size": 7494
+    },
+    {
+        "name": "build_py.py",
+        "parent": [],
+        "type": "file",
+        "size": 14115
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 396
+    },
+    {
+        "name": "sdist.py",
+        "parent": [],
+        "type": "file",
+        "size": 7071
+    },
+    {
+        "name": "test.py",
+        "parent": [],
+        "type": "file",
+        "size": 8102
+    },
+    {
+        "name": "saveopts.py",
+        "parent": [],
+        "type": "file",
+        "size": 658
+    },
+    {
+        "name": "bdist_rpm.py",
+        "parent": [],
+        "type": "file",
+        "size": 1182
+    },
+    {
+        "name": "build_clib.py",
+        "parent": [],
+        "type": "file",
+        "size": 4415
+    },
+    {
+        "name": "egg_info.py",
+        "parent": [],
+        "type": "file",
+        "size": 26795
+    },
+    {
+        "name": "install.py",
+        "parent": [],
+        "type": "file",
+        "size": 5163
+    },
+    {
+        "name": "develop.py",
+        "parent": [],
+        "type": "file",
+        "size": 7012
+    },
+    {
+        "name": "rotate.py",
+        "parent": [],
+        "type": "file",
+        "size": 2128
+    },
+    {
+        "name": "install_egg_info.py",
+        "parent": [],
+        "type": "file",
+        "size": 2226
+    },
+    {
+        "name": "setopt.py",
+        "parent": [],
+        "type": "file",
+        "size": 5086
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 2512
+    },
+    {
+        "name": "_msvccompiler.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 19672
+    },
+    {
+        "name": "unixccompiler.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 15641
+    },
+    {
+        "name": "filelist.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 13713
+    },
+    {
+        "name": "ccompiler.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 47369
+    },
+    {
+        "name": "msvc9compiler.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 30235
+    },
+    {
+        "name": "archive_util.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 8603
+    },
+    {
+        "name": "cmd.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 17973
+    },
+    {
+        "name": "config.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 4920
+    },
+    {
+        "name": "version.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 12952
+    },
+    {
+        "name": "log.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 1972
+    },
+    {
+        "name": "util.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 18128
+    },
+    {
+        "name": "fancy_getopt.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 17910
+    },
+    {
+        "name": "versionpredicate.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 5248
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 537
+    },
+    {
+        "name": "file_util.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 8226
+    },
+    {
+        "name": "core.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 9451
+    },
+    {
+        "name": "_functools.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 411
+    },
+    {
+        "name": "_collections.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 1330
+    },
+    {
+        "name": "cygwinccompiler.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 12537
+    },
+    {
+        "name": "extension.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 10270
+    },
+    {
+        "name": "debug.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 139
+    },
+    {
+        "name": "spawn.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 3517
+    },
+    {
+        "name": "text_file.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 12096
+    },
+    {
+        "name": "msvccompiler.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 23602
+    },
+    {
+        "name": "errors.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 3589
+    },
+    {
+        "name": "dep_util.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 3423
+    },
+    {
+        "name": "dir_util.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 8082
+    },
+    {
+        "name": "sysconfig.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 18858
+    },
+    {
+        "name": "_macos_compat.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 239
+    },
+    {
+        "name": "py39compat.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 639
+    },
+    {
+        "name": "py38compat.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 217
+    },
+    {
+        "name": "dist.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 50186
+    },
+    {
+        "name": "bcppcompiler.py",
+        "parent": [
+            "command"
+        ],
+        "type": "file",
+        "size": 14789
+    },
+    {
+        "name": "command",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/setuptools/_distutils",
+        "type": "dir",
+        "size": 208459
+    },
+    {
+        "name": "build.py",
+        "parent": [],
+        "type": "file",
+        "size": 5617
+    },
+    {
+        "name": "py37compat.py",
+        "parent": [],
+        "type": "file",
+        "size": 672
+    },
+    {
+        "name": "build_ext.py",
+        "parent": [],
+        "type": "file",
+        "size": 31558
+    },
+    {
+        "name": "config.py",
+        "parent": [],
+        "type": "file",
+        "size": 13137
+    },
+    {
+        "name": "clean.py",
+        "parent": [],
+        "type": "file",
+        "size": 2603
+    },
+    {
+        "name": "check.py",
+        "parent": [],
+        "type": "file",
+        "size": 4888
+    },
+    {
+        "name": "install_scripts.py",
+        "parent": [],
+        "type": "file",
+        "size": 1936
+    },
+    {
+        "name": "upload.py",
+        "parent": [],
+        "type": "file",
+        "size": 7477
+    },
+    {
+        "name": "register.py",
+        "parent": [],
+        "type": "file",
+        "size": 11765
+    },
+    {
+        "name": "_framework_compat.py",
+        "parent": [],
+        "type": "file",
+        "size": 1614
+    },
+    {
+        "name": "install_headers.py",
+        "parent": [],
+        "type": "file",
+        "size": 1189
+    },
+    {
+        "name": "install_lib.py",
+        "parent": [],
+        "type": "file",
+        "size": 8434
+    },
+    {
+        "name": "build_py.py",
+        "parent": [],
+        "type": "file",
+        "size": 16568
+    },
+    {
+        "name": "bdist_dumb.py",
+        "parent": [],
+        "type": "file",
+        "size": 4701
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 430
+    },
+    {
+        "name": "sdist.py",
+        "parent": [],
+        "type": "file",
+        "size": 19241
+    },
+    {
+        "name": "bdist.py",
+        "parent": [],
+        "type": "file",
+        "size": 5441
+    },
+    {
+        "name": "build_scripts.py",
+        "parent": [],
+        "type": "file",
+        "size": 5624
+    },
+    {
+        "name": "bdist_rpm.py",
+        "parent": [],
+        "type": "file",
+        "size": 22051
+    },
+    {
+        "name": "build_clib.py",
+        "parent": [],
+        "type": "file",
+        "size": 7728
+    },
+    {
+        "name": "install.py",
+        "parent": [],
+        "type": "file",
+        "size": 30221
+    },
+    {
+        "name": "install_egg_info.py",
+        "parent": [],
+        "type": "file",
+        "size": 2785
+    },
+    {
+        "name": "install_data.py",
+        "parent": [],
+        "type": "file",
+        "size": 2779
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "_vendor",
+            "__pycache__",
+            "extern"
+        ],
+        "type": "file",
+        "size": 108568
+    },
+    {
+        "name": "_vendor",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources",
+        "type": "dir",
+        "size": 1588454
+    },
+    {
+        "name": "__pycache__",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources",
+        "type": "dir",
+        "size": 159605
+    },
+    {
+        "name": "extern",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources",
+        "type": "dir",
+        "size": 6778
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "packaging",
+            "jaraco",
+            "pyparsing",
+            "__pycache__",
+            "more_itertools",
+            "importlib_resources"
+        ],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "appdirs.py",
+        "parent": [
+            "packaging",
+            "jaraco",
+            "pyparsing",
+            "__pycache__",
+            "more_itertools",
+            "importlib_resources"
+        ],
+        "type": "file",
+        "size": 24701
+    },
+    {
+        "name": "zipp.py",
+        "parent": [
+            "packaging",
+            "jaraco",
+            "pyparsing",
+            "__pycache__",
+            "more_itertools",
+            "importlib_resources"
+        ],
+        "type": "file",
+        "size": 8425
+    },
+    {
+        "name": "packaging",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor",
+        "type": "dir",
+        "size": 231361
+    },
+    {
+        "name": "jaraco",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor",
+        "type": "dir",
+        "size": 91133
+    },
+    {
+        "name": "pyparsing",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor",
+        "type": "dir",
+        "size": 831620
+    },
+    {
+        "name": "__pycache__",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor",
+        "type": "dir",
+        "size": 29714
+    },
+    {
+        "name": "more_itertools",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor",
+        "type": "dir",
+        "size": 346377
+    },
+    {
+        "name": "importlib_resources",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor",
+        "type": "dir",
+        "size": 25123
+    },
+    {
+        "name": "tags.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 15699
+    },
+    {
+        "name": "_musllinux.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 4378
+    },
+    {
+        "name": "version.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 14665
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 497
+    },
+    {
+        "name": "utils.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 4200
+    },
+    {
+        "name": "requirements.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 4706
+    },
+    {
+        "name": "_structures.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 1431
+    },
+    {
+        "name": "markers.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 8496
+    },
+    {
+        "name": "__about__.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 661
+    },
+    {
+        "name": "_manylinux.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 11488
+    },
+    {
+        "name": "specifiers.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 30110
+    },
+    {
+        "name": "__pycache__",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor/packaging",
+        "type": "dir",
+        "size": 135030
+    },
+    {
+        "name": "markers.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 16576
+    },
+    {
+        "name": "requirements.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 7691
+    },
+    {
+        "name": "_musllinux.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 8039
+    },
+    {
+        "name": "tags.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 21390
+    },
+    {
+        "name": "utils.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 6725
+    },
+    {
+        "name": "__about__.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 684
+    },
+    {
+        "name": "_manylinux.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 13271
+    },
+    {
+        "name": "version.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 21917
+    },
+    {
+        "name": "specifiers.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 34405
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 605
+    },
+    {
+        "name": "_structures.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 3727
+    },
+    {
+        "name": "functools.py",
+        "parent": [
+            "__pycache__",
+            "text"
+        ],
+        "type": "file",
+        "size": 13515
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "__pycache__",
+            "text"
+        ],
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "context.py",
+        "parent": [
+            "__pycache__",
+            "text"
+        ],
+        "type": "file",
+        "size": 5420
+    },
+    {
+        "name": "__pycache__",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor/jaraco",
+        "type": "dir",
+        "size": 30029
+    },
+    {
+        "name": "text",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor/jaraco",
+        "type": "dir",
+        "size": 42169
+    },
+    {
+        "name": "functools.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 20326
+    },
+    {
+        "name": "context.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 9463
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 240
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 15526
+    },
+    {
+        "name": "__pycache__",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor/jaraco/text",
+        "type": "dir",
+        "size": 26643
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 26643
+    },
+    {
+        "name": "results.py",
+        "parent": [
+            "diagram",
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 25341
+    },
+    {
+        "name": "unicode.py",
+        "parent": [
+            "diagram",
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 10787
+    },
+    {
+        "name": "util.py",
+        "parent": [
+            "diagram",
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 6805
+    },
+    {
+        "name": "actions.py",
+        "parent": [
+            "diagram",
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 6426
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "diagram",
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 9159
+    },
+    {
+        "name": "core.py",
+        "parent": [
+            "diagram",
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 213310
+    },
+    {
+        "name": "common.py",
+        "parent": [
+            "diagram",
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 12936
+    },
+    {
+        "name": "exceptions.py",
+        "parent": [
+            "diagram",
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 9023
+    },
+    {
+        "name": "testing.py",
+        "parent": [
+            "diagram",
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 13402
+    },
+    {
+        "name": "helpers.py",
+        "parent": [
+            "diagram",
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 39129
+    },
+    {
+        "name": "diagram",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor/pyparsing",
+        "type": "dir",
+        "size": 23668
+    },
+    {
+        "name": "__pycache__",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor/pyparsing",
+        "type": "dir",
+        "size": 461634
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 23668
+    },
+    {
+        "name": "helpers.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 53669
+    },
+    {
+        "name": "core.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 277678
+    },
+    {
+        "name": "unicode.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 15406
+    },
+    {
+        "name": "testing.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 19548
+    },
+    {
+        "name": "common.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 14826
+    },
+    {
+        "name": "actions.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 8504
+    },
+    {
+        "name": "exceptions.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 12968
+    },
+    {
+        "name": "util.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 14305
+    },
+    {
+        "name": "results.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 36352
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 8378
+    },
+    {
+        "name": "appdirs.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 29481
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 233
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 83
+    },
+    {
+        "name": "more.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 132569
+    },
+    {
+        "name": "recipes.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 18410
+    },
+    {
+        "name": "__pycache__",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/_vendor/more_itertools",
+        "type": "dir",
+        "size": 195315
+    },
+    {
+        "name": "more.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 167995
+    },
+    {
+        "name": "recipes.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 26986
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 334
+    },
+    {
+        "name": "readers.py",
+        "parent": [],
+        "type": "file",
+        "size": 3566
+    },
+    {
+        "name": "_common.py",
+        "parent": [],
+        "type": "file",
+        "size": 2741
+    },
+    {
+        "name": "__init__.py",
+        "parent": [],
+        "type": "file",
+        "size": 506
+    },
+    {
+        "name": "_itertools.py",
+        "parent": [],
+        "type": "file",
+        "size": 884
+    },
+    {
+        "name": "_adapters.py",
+        "parent": [],
+        "type": "file",
+        "size": 4504
+    },
+    {
+        "name": "_compat.py",
+        "parent": [],
+        "type": "file",
+        "size": 2706
+    },
+    {
+        "name": "_legacy.py",
+        "parent": [],
+        "type": "file",
+        "size": 3494
+    },
+    {
+        "name": "simple.py",
+        "parent": [],
+        "type": "file",
+        "size": 2836
+    },
+    {
+        "name": "abc.py",
+        "parent": [],
+        "type": "file",
+        "size": 3886
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 159605
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 2426
+    },
+    {
+        "name": "__pycache__",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/pkg_resources/extern",
+        "type": "dir",
+        "size": 4352
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 4352
+    },
+    {
+        "name": "__init__.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 6128
+    },
+    {
+        "name": "override.py",
+        "parent": [
+            "__pycache__"
+        ],
+        "type": "file",
+        "size": 44
+    },
+    {
+        "name": "__pycache__",
+        "parent": "/Users/nikakaraseva/Desktop/GB/PYTHON_new/Seminars/Sem_8/venv/lib/python3.11/site-packages/_distutils_hack",
+        "type": "dir",
+        "size": 11192
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": [],
+        "type": "file",
+        "size": 11192
+    }
+]
